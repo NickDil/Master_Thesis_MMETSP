@@ -1,0 +1,25 @@
+### THIS CODE IS COPIED and adapted FROM https://github.com/zjroth/flame-clustering
+
+To compile:
+
+gcc -I. flame.c sample.c -o sample
+
+-----------------------------------------------------------
+
+To change distfunction and KNN, use first line in matrix.txt
+
+"nrow mcol D KNN"
+
+D corresponds to index in list of distance functions:
+{
+	DST_USER = 0,
+	DST_EUCLID ,
+	DST_COSINE ,
+	DST_PEARSON ,
+	DST_UC_PEARSON ,
+	DST_SQ_PEARSON ,
+	DST_DOT_PROD ,
+	DST_COVARIANCE ,
+	DST_MANHATTAN ,
+	DST_NULL
+}

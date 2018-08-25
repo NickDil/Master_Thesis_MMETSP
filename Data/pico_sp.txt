@@ -1,0 +1,30 @@
+Arabidopsis thaliana
+Oryza sativa
+Physcomitrella patens
+Bathycoccus prasinos
+Micromonas pusilla strain CCMP1545
+Ostreococcus tauri
+Ectocarpus siliculosus
+Phaeodactylum tricornutum
+Amborella trichopoda
+Micromonas sp RCC299
+Aureococcus anophagefferens
+Thalassiosira pseudonana
+Cyanidioschyzon merolae
+Chlorella sp NC64A
+Fragilariopsis cylindrus
+Ostreococcus lucimarinus
+Ostreococcus sp RCC809
+Ostreococcus mediterraneus
+Chlamydomonas reinhardtii
+Volvox carteri
+Coccomyxa subellipsoidea C-169
+Helicosporidium sp.
+Auxenochlorella protothecoides
+Picochlorum sp. SENEW3 (SE3)
+Chondrus crispus
+Galdieria sulphuraria
+Asterochloris sp. Cgr/DA1pho v2.0
+Homo sapiens
+Mus musculus
+Drosophila melanogaster

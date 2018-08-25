@@ -1,0 +1,670 @@
+MMETSP0982	ftp://ftp.imicrobe.us/projects/104/samples/1662/MMETSP0982.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1662/MMETSP0982.nt.fa.gz.md5
+MMETSP0503	ftp://ftp.imicrobe.us/projects/104/samples/1663/MMETSP0503.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1663/MMETSP0503.nt.fa.gz.md5
+MMETSP0168	ftp://ftp.imicrobe.us/projects/104/samples/1664/MMETSP0168.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1664/MMETSP0168.nt.fa.gz.md5
+MMETSP0784	ftp://ftp.imicrobe.us/projects/104/samples/1665/MMETSP0784.nt.fa.gz
+MMETSP0017	ftp://ftp.imicrobe.us/projects/104/samples/1666/MMETSP0017.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1666/MMETSP0017.nt.fa.gz.md5
+MMETSP0018	ftp://ftp.imicrobe.us/projects/104/samples/1667/MMETSP0018.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1667/MMETSP0018.nt.fa.gz.md5
+MMETSP0004	ftp://ftp.imicrobe.us/projects/104/samples/1668/MMETSP0004.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1668/MMETSP0004.nt.fa.gz.md5
+MMETSP0005	ftp://ftp.imicrobe.us/projects/104/samples/1669/MMETSP0005.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1669/MMETSP0005.nt.fa.gz.md5
+MMETSP0006	ftp://ftp.imicrobe.us/projects/104/samples/1670/MMETSP0006.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1670/MMETSP0006.nt.fa.gz.md5
+MMETSP0007	ftp://ftp.imicrobe.us/projects/104/samples/1671/MMETSP0007.nt.fa.gz
+MMETSP0008	ftp://ftp.imicrobe.us/projects/104/samples/1672/MMETSP0008.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1672/MMETSP0008.nt.fa.gz.md5
+MMETSP0009	ftp://ftp.imicrobe.us/projects/104/samples/1673/MMETSP0009.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1673/MMETSP0009.nt.fa.gz.md5
+MMETSP0010	ftp://ftp.imicrobe.us/projects/104/samples/1674/MMETSP0010.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1674/MMETSP0010.nt.fa.gz.md5
+MMETSP0011	ftp://ftp.imicrobe.us/projects/104/samples/1675/MMETSP0011.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1675/MMETSP0011.nt.fa.gz.md5
+MMETSP0013	ftp://ftp.imicrobe.us/projects/104/samples/1676/MMETSP0013.nt.fa.gz
+MMETSP0014	ftp://ftp.imicrobe.us/projects/104/samples/1677/MMETSP0014.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1677/MMETSP0014.nt.fa.gz.md5
+MMETSP0015	ftp://ftp.imicrobe.us/projects/104/samples/1678/MMETSP0015.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1678/MMETSP0015.nt.fa.gz.md5
+MMETSP0034	ftp://ftp.imicrobe.us/projects/104/samples/1679/MMETSP0034.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1679/MMETSP0034.nt.fa.gz.md5
+MMETSP0041	ftp://ftp.imicrobe.us/projects/104/samples/1680/MMETSP0041.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1680/MMETSP0041.nt.fa.gz.md5
+MMETSP0042	ftp://ftp.imicrobe.us/projects/104/samples/1681/MMETSP0042.nt.fa.gz
+MMETSP0043	ftp://ftp.imicrobe.us/projects/104/samples/1682/MMETSP0043.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1682/MMETSP0043.nt.fa.gz.md5
+MMETSP0038	ftp://ftp.imicrobe.us/projects/104/samples/1683/MMETSP0038.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1683/MMETSP0038.nt.fa.gz.md5
+MMETSP0039	ftp://ftp.imicrobe.us/projects/104/samples/1684/MMETSP0039.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1684/MMETSP0039.nt.fa.gz.md5
+MMETSP0040	ftp://ftp.imicrobe.us/projects/104/samples/1685/MMETSP0040.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1685/MMETSP0040.nt.fa.gz.md5
+MMETSP0027	ftp://ftp.imicrobe.us/projects/104/samples/1686/MMETSP0027.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1686/MMETSP0027.nt.fa.gz.md5
+MMETSP0029	ftp://ftp.imicrobe.us/projects/104/samples/1687/MMETSP0029.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1687/MMETSP0029.nt.fa.gz.md5
+MMETSP0030	ftp://ftp.imicrobe.us/projects/104/samples/1688/MMETSP0030.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1688/MMETSP0030.nt.fa.gz.md5
+MMETSP0031	ftp://ftp.imicrobe.us/projects/104/samples/1689/MMETSP0031.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1689/MMETSP0031.nt.fa.gz.md5
+MMETSP0033	ftp://ftp.imicrobe.us/projects/104/samples/1690/MMETSP0033.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1690/MMETSP0033.nt.fa.gz.md5
+MMETSP0019	ftp://ftp.imicrobe.us/projects/104/samples/1691/MMETSP0019.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1691/MMETSP0019.nt.fa.gz.md5
+MMETSP0020	ftp://ftp.imicrobe.us/projects/104/samples/1692/MMETSP0020.nt.fa.gz
+MMETSP0058	ftp://ftp.imicrobe.us/projects/104/samples/1693/MMETSP0058.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1693/MMETSP0058.nt.fa.gz.md5
+MMETSP0059	ftp://ftp.imicrobe.us/projects/104/samples/1694/MMETSP0059.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1694/MMETSP0059.nt.fa.gz.md5
+MMETSP0063	ftp://ftp.imicrobe.us/projects/104/samples/1695/MMETSP0063.nt.fa.gz
+MMETSP0086	ftp://ftp.imicrobe.us/projects/104/samples/1696/MMETSP0086.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1696/MMETSP0086.nt.fa.gz.md5
+MMETSP0044	ftp://ftp.imicrobe.us/projects/104/samples/1697/MMETSP0044.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1697/MMETSP0044.nt.fa.gz.md5
+MMETSP0045	ftp://ftp.imicrobe.us/projects/104/samples/1698/MMETSP0045.nt.fa.gz
+MMETSP0046	ftp://ftp.imicrobe.us/projects/104/samples/1699/MMETSP0046.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1699/MMETSP0046.nt.fa.gz.md5
+MMETSP0052	ftp://ftp.imicrobe.us/projects/104/samples/1700/MMETSP0052.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1700/MMETSP0052.nt.fa.gz.md5
+MMETSP0095	ftp://ftp.imicrobe.us/projects/104/samples/1701/MMETSP0095.nt.fa.gz
+MMETSP0096	ftp://ftp.imicrobe.us/projects/104/samples/1702/MMETSP0096.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1702/MMETSP0096.nt.fa.gz.md5
+MMETSP0103	ftp://ftp.imicrobe.us/projects/104/samples/1703/MMETSP0103.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1703/MMETSP0103.nt.fa.gz.md5
+MMETSP0104	ftp://ftp.imicrobe.us/projects/104/samples/1704/MMETSP0104.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1704/MMETSP0104.nt.fa.gz.md5
+MMETSP0107	ftp://ftp.imicrobe.us/projects/104/samples/1705/MMETSP0107.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1705/MMETSP0107.nt.fa.gz.md5
+MMETSP0108	ftp://ftp.imicrobe.us/projects/104/samples/1706/MMETSP0108.nt.fa.gz
+MMETSP0105	ftp://ftp.imicrobe.us/projects/104/samples/1707/MMETSP0105.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1707/MMETSP0105.nt.fa.gz.md5
+MMETSP0106	ftp://ftp.imicrobe.us/projects/104/samples/1708/MMETSP0106.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1708/MMETSP0106.nt.fa.gz.md5
+MMETSP0097	ftp://ftp.imicrobe.us/projects/104/samples/1709/MMETSP0097.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1709/MMETSP0097.nt.fa.gz.md5
+MMETSP0098	ftp://ftp.imicrobe.us/projects/104/samples/1710/MMETSP0098.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1710/MMETSP0098.nt.fa.gz.md5
+MMETSP0099	ftp://ftp.imicrobe.us/projects/104/samples/1711/MMETSP0099.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1711/MMETSP0099.nt.fa.gz.md5
+MMETSP0100	ftp://ftp.imicrobe.us/projects/104/samples/1712/MMETSP0100.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1712/MMETSP0100.nt.fa.gz.md5
+MMETSP0101	ftp://ftp.imicrobe.us/projects/104/samples/1713/MMETSP0101.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1713/MMETSP0101.nt.fa.gz.md5
+MMETSP0102	ftp://ftp.imicrobe.us/projects/104/samples/1714/MMETSP0102.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1714/MMETSP0102.nt.fa.gz.md5
+MMETSP0087	ftp://ftp.imicrobe.us/projects/104/samples/1715/MMETSP0087.nt.fa.gz
+MMETSP0093	ftp://ftp.imicrobe.us/projects/104/samples/1716/MMETSP0093.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1716/MMETSP0093.nt.fa.gz.md5
+MMETSP0117	ftp://ftp.imicrobe.us/projects/104/samples/1717/MMETSP0117.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1717/MMETSP0117.nt.fa.gz.md5
+MMETSP0118	ftp://ftp.imicrobe.us/projects/104/samples/1718/MMETSP0118.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1718/MMETSP0118.nt.fa.gz.md5
+MMETSP0121	ftp://ftp.imicrobe.us/projects/104/samples/1719/MMETSP0121.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1719/MMETSP0121.nt.fa.gz.md5
+MMETSP0123	ftp://ftp.imicrobe.us/projects/104/samples/1720/MMETSP0123.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1720/MMETSP0123.nt.fa.gz.md5
+MMETSP0119	ftp://ftp.imicrobe.us/projects/104/samples/1721/MMETSP0119.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1721/MMETSP0119.nt.fa.gz.md5
+MMETSP0120	ftp://ftp.imicrobe.us/projects/104/samples/1722/MMETSP0120.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1722/MMETSP0120.nt.fa.gz.md5
+MMETSP0109	ftp://ftp.imicrobe.us/projects/104/samples/1723/MMETSP0109.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1723/MMETSP0109.nt.fa.gz.md5
+MMETSP0110	ftp://ftp.imicrobe.us/projects/104/samples/1724/MMETSP0110.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1724/MMETSP0110.nt.fa.gz.md5
+MMETSP0111	ftp://ftp.imicrobe.us/projects/104/samples/1725/MMETSP0111.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1725/MMETSP0111.nt.fa.gz.md5
+MMETSP0112	ftp://ftp.imicrobe.us/projects/104/samples/1726/MMETSP0112.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1726/MMETSP0112.nt.fa.gz.md5
+MMETSP0113	ftp://ftp.imicrobe.us/projects/104/samples/1727/MMETSP0113.nt.fa.gz
+MMETSP0114	ftp://ftp.imicrobe.us/projects/104/samples/1728/MMETSP0114.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1728/MMETSP0114.nt.fa.gz.md5
+MMETSP0115	ftp://ftp.imicrobe.us/projects/104/samples/1729/MMETSP0115.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1729/MMETSP0115.nt.fa.gz.md5
+MMETSP0116	ftp://ftp.imicrobe.us/projects/104/samples/1730/MMETSP0116.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1730/MMETSP0116.nt.fa.gz.md5
+MMETSP0126	ftp://ftp.imicrobe.us/projects/104/samples/1731/MMETSP0126.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1731/MMETSP0126.nt.fa.gz.md5
+MMETSP0127	ftp://ftp.imicrobe.us/projects/104/samples/1732/MMETSP0127.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1732/MMETSP0127.nt.fa.gz.md5
+MMETSP0139	ftp://ftp.imicrobe.us/projects/104/samples/1733/MMETSP0139.nt.fa.gz
+MMETSP0142	ftp://ftp.imicrobe.us/projects/104/samples/1734/MMETSP0142.nt.fa.gz
+MMETSP0143	ftp://ftp.imicrobe.us/projects/104/samples/1735/MMETSP0143.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1735/MMETSP0143.nt.fa.gz.md5
+MMETSP0145	ftp://ftp.imicrobe.us/projects/104/samples/1736/MMETSP0145.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1736/MMETSP0145.nt.fa.gz.md5
+MMETSP0140	ftp://ftp.imicrobe.us/projects/104/samples/1737/MMETSP0140.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1737/MMETSP0140.nt.fa.gz.md5
+MMETSP0141	ftp://ftp.imicrobe.us/projects/104/samples/1738/MMETSP0141.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1738/MMETSP0141.nt.fa.gz.md5
+MMETSP0125	ftp://ftp.imicrobe.us/projects/104/samples/1740/MMETSP0125.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1740/MMETSP0125.nt.fa.gz.md5
+MMETSP0156	ftp://ftp.imicrobe.us/projects/104/samples/1741/MMETSP0156.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1741/MMETSP0156.nt.fa.gz.md5
+MMETSP0158	ftp://ftp.imicrobe.us/projects/104/samples/1742/MMETSP0158.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1742/MMETSP0158.nt.fa.gz.md5
+MMETSP0160	ftp://ftp.imicrobe.us/projects/104/samples/1743/MMETSP0160.nt.fa.gz
+MMETSP0161	ftp://ftp.imicrobe.us/projects/104/samples/1744/MMETSP0161.nt.fa.gz
+MMETSP0146	ftp://ftp.imicrobe.us/projects/104/samples/1745/MMETSP0146.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1745/MMETSP0146.nt.fa.gz.md5
+MMETSP0147	ftp://ftp.imicrobe.us/projects/104/samples/1746/MMETSP0147.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1746/MMETSP0147.nt.fa.gz.md5
+MMETSP0149	ftp://ftp.imicrobe.us/projects/104/samples/1747/MMETSP0149.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1747/MMETSP0149.nt.fa.gz.md5
+MMETSP0150	ftp://ftp.imicrobe.us/projects/104/samples/1748/MMETSP0150.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1748/MMETSP0150.nt.fa.gz.md5
+MMETSP0151	ftp://ftp.imicrobe.us/projects/104/samples/1749/MMETSP0151.nt.fa.gz
+MMETSP0152	ftp://ftp.imicrobe.us/projects/104/samples/1750/MMETSP0152.nt.fa.gz
+MMETSP0154	ftp://ftp.imicrobe.us/projects/104/samples/1751/MMETSP0154.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1751/MMETSP0154.nt.fa.gz.md5
+MMETSP0167	ftp://ftp.imicrobe.us/projects/104/samples/1752/MMETSP0167.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1752/MMETSP0167.nt.fa.gz.md5
+MMETSP0190	ftp://ftp.imicrobe.us/projects/104/samples/1753/MMETSP0190.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1753/MMETSP0190.nt.fa.gz.md5
+MMETSP0191	ftp://ftp.imicrobe.us/projects/104/samples/1754/MMETSP0191.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1754/MMETSP0191.nt.fa.gz.md5
+MMETSP0169	ftp://ftp.imicrobe.us/projects/104/samples/1755/MMETSP0169.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1755/MMETSP0169.nt.fa.gz.md5
+MMETSP0171	ftp://ftp.imicrobe.us/projects/104/samples/1756/MMETSP0171.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1756/MMETSP0171.nt.fa.gz.md5
+MMETSP0173	ftp://ftp.imicrobe.us/projects/104/samples/1757/MMETSP0173.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1757/MMETSP0173.nt.fa.gz.md5
+MMETSP0174	ftp://ftp.imicrobe.us/projects/104/samples/1758/MMETSP0174.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1758/MMETSP0174.nt.fa.gz.md5
+MMETSP0176	ftp://ftp.imicrobe.us/projects/104/samples/1759/MMETSP0176.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1759/MMETSP0176.nt.fa.gz.md5
+MMETSP0186	ftp://ftp.imicrobe.us/projects/104/samples/1760/MMETSP0186.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1760/MMETSP0186.nt.fa.gz.md5
+MMETSP0164	ftp://ftp.imicrobe.us/projects/104/samples/1761/MMETSP0164.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1761/MMETSP0164.nt.fa.gz.md5
+MMETSP0202	ftp://ftp.imicrobe.us/projects/104/samples/1762/MMETSP0202.nt.fa.gz
+MMETSP0208	ftp://ftp.imicrobe.us/projects/104/samples/1763/MMETSP0208.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1763/MMETSP0208.nt.fa.gz.md5
+MMETSP0196	ftp://ftp.imicrobe.us/projects/104/samples/1764/MMETSP0196.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1764/MMETSP0196.nt.fa.gz.md5
+MMETSP0198	ftp://ftp.imicrobe.us/projects/104/samples/1765/MMETSP0198.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1765/MMETSP0198.nt.fa.gz.md5
+MMETSP0199	ftp://ftp.imicrobe.us/projects/104/samples/1766/MMETSP0199.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1766/MMETSP0199.nt.fa.gz.md5
+MMETSP0200	ftp://ftp.imicrobe.us/projects/104/samples/1767/MMETSP0200.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1767/MMETSP0200.nt.fa.gz.md5
+MMETSP0201	ftp://ftp.imicrobe.us/projects/104/samples/1768/MMETSP0201.nt.fa.gz
+MMETSP0211	ftp://ftp.imicrobe.us/projects/104/samples/1769/MMETSP0211.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1769/MMETSP0211.nt.fa.gz.md5
+MMETSP0213	ftp://ftp.imicrobe.us/projects/104/samples/1770/MMETSP0213.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1770/MMETSP0213.nt.fa.gz.md5
+MMETSP0224	ftp://ftp.imicrobe.us/projects/104/samples/1771/MMETSP0224.nt.fa.gz
+MMETSP0225	ftp://ftp.imicrobe.us/projects/104/samples/1772/MMETSP0225.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1772/MMETSP0225.nt.fa.gz.md5
+MMETSP0228	ftp://ftp.imicrobe.us/projects/104/samples/1773/MMETSP0228.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1773/MMETSP0228.nt.fa.gz.md5
+MMETSP0229	ftp://ftp.imicrobe.us/projects/104/samples/1774/MMETSP0229.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1774/MMETSP0229.nt.fa.gz.md5
+MMETSP0227	ftp://ftp.imicrobe.us/projects/104/samples/1775/MMETSP0227.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1775/MMETSP0227.nt.fa.gz.md5
+MMETSP0216	ftp://ftp.imicrobe.us/projects/104/samples/1776/MMETSP0216.nt.fa.gz
+MMETSP0209	ftp://ftp.imicrobe.us/projects/104/samples/1777/MMETSP0209.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1777/MMETSP0209.nt.fa.gz.md5
+MMETSP0210	ftp://ftp.imicrobe.us/projects/104/samples/1778/MMETSP0210.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1778/MMETSP0210.nt.fa.gz.md5
+MMETSP0259	ftp://ftp.imicrobe.us/projects/104/samples/1779/MMETSP0259.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1779/MMETSP0259.nt.fa.gz.md5
+MMETSP0267	ftp://ftp.imicrobe.us/projects/104/samples/1780/MMETSP0267.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1780/MMETSP0267.nt.fa.gz.md5
+MMETSP0270	ftp://ftp.imicrobe.us/projects/104/samples/1781/MMETSP0270.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1781/MMETSP0270.nt.fa.gz.md5
+MMETSP0271	ftp://ftp.imicrobe.us/projects/104/samples/1782/MMETSP0271.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1782/MMETSP0271.nt.fa.gz.md5
+MMETSP0268	ftp://ftp.imicrobe.us/projects/104/samples/1783/MMETSP0268.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1783/MMETSP0268.nt.fa.gz.md5
+MMETSP0269	ftp://ftp.imicrobe.us/projects/104/samples/1784/MMETSP0269.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1784/MMETSP0269.nt.fa.gz.md5
+MMETSP0232	ftp://ftp.imicrobe.us/projects/104/samples/1785/MMETSP0232.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1785/MMETSP0232.nt.fa.gz.md5
+MMETSP0233	ftp://ftp.imicrobe.us/projects/104/samples/1786/MMETSP0233.nt.fa.gz
+MMETSP0234	ftp://ftp.imicrobe.us/projects/104/samples/1787/MMETSP0234.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1787/MMETSP0234.nt.fa.gz.md5
+MMETSP0235	ftp://ftp.imicrobe.us/projects/104/samples/1788/MMETSP0235.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1788/MMETSP0235.nt.fa.gz.md5
+MMETSP0251	ftp://ftp.imicrobe.us/projects/104/samples/1789/MMETSP0251.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1789/MMETSP0251.nt.fa.gz.md5
+MMETSP0252	ftp://ftp.imicrobe.us/projects/104/samples/1790/MMETSP0252.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1790/MMETSP0252.nt.fa.gz.md5
+MMETSP0253	ftp://ftp.imicrobe.us/projects/104/samples/1791/MMETSP0253.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1791/MMETSP0253.nt.fa.gz.md5
+MMETSP0258	ftp://ftp.imicrobe.us/projects/104/samples/1792/MMETSP0258.nt.fa.gz
+MMETSP0287	ftp://ftp.imicrobe.us/projects/104/samples/1793/MMETSP0287.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1793/MMETSP0287.nt.fa.gz.md5
+MMETSP0316	ftp://ftp.imicrobe.us/projects/104/samples/1794/MMETSP0316.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1794/MMETSP0316.nt.fa.gz.md5
+MMETSP0317	ftp://ftp.imicrobe.us/projects/104/samples/1795/MMETSP0317.nt.fa.gz
+MMETSP0320	ftp://ftp.imicrobe.us/projects/104/samples/1796/MMETSP0320.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1796/MMETSP0320.nt.fa.gz.md5
+MMETSP0321	ftp://ftp.imicrobe.us/projects/104/samples/1797/MMETSP0321.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1797/MMETSP0321.nt.fa.gz.md5
+MMETSP0318	ftp://ftp.imicrobe.us/projects/104/samples/1798/MMETSP0318.nt.fa.gz
+MMETSP0319	ftp://ftp.imicrobe.us/projects/104/samples/1799/MMETSP0319.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1799/MMETSP0319.nt.fa.gz.md5
+MMETSP0292	ftp://ftp.imicrobe.us/projects/104/samples/1800/MMETSP0292.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1800/MMETSP0292.nt.fa.gz.md5
+MMETSP0294	ftp://ftp.imicrobe.us/projects/104/samples/1801/MMETSP0294.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1801/MMETSP0294.nt.fa.gz.md5
+MMETSP0295	ftp://ftp.imicrobe.us/projects/104/samples/1802/MMETSP0295.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1802/MMETSP0295.nt.fa.gz.md5
+MMETSP0296	ftp://ftp.imicrobe.us/projects/104/samples/1803/MMETSP0296.nt.fa.gz
+MMETSP0272	ftp://ftp.imicrobe.us/projects/104/samples/1804/MMETSP0272.nt.fa.gz
+MMETSP0347	ftp://ftp.imicrobe.us/projects/104/samples/1805/MMETSP0347.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1805/MMETSP0347.nt.fa.gz.md5
+MMETSP0359	ftp://ftp.imicrobe.us/projects/104/samples/1806/MMETSP0359.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1806/MMETSP0359.nt.fa.gz.md5
+MMETSP0360	ftp://ftp.imicrobe.us/projects/104/samples/1807/MMETSP0360.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1807/MMETSP0360.nt.fa.gz.md5
+MMETSP0361	ftp://ftp.imicrobe.us/projects/104/samples/1808/MMETSP0361.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1808/MMETSP0361.nt.fa.gz.md5
+MMETSP0322	ftp://ftp.imicrobe.us/projects/104/samples/1809/MMETSP0322.nt.fa.gz
+MMETSP0323	ftp://ftp.imicrobe.us/projects/104/samples/1810/MMETSP0323.nt.fa.gz
+MMETSP0325	ftp://ftp.imicrobe.us/projects/104/samples/1811/MMETSP0325.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1811/MMETSP0325.nt.fa.gz.md5
+MMETSP0326	ftp://ftp.imicrobe.us/projects/104/samples/1812/MMETSP0326.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1812/MMETSP0326.nt.fa.gz.md5
+MMETSP0327	ftp://ftp.imicrobe.us/projects/104/samples/1813/MMETSP0327.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1813/MMETSP0327.nt.fa.gz.md5
+MMETSP0328	ftp://ftp.imicrobe.us/projects/104/samples/1814/MMETSP0328.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1814/MMETSP0328.nt.fa.gz.md5
+MMETSP0329	ftp://ftp.imicrobe.us/projects/104/samples/1815/MMETSP0329.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1815/MMETSP0329.nt.fa.gz.md5
+MMETSP0370	ftp://ftp.imicrobe.us/projects/104/samples/1816/MMETSP0370.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1816/MMETSP0370.nt.fa.gz.md5
+MMETSP0371	ftp://ftp.imicrobe.us/projects/104/samples/1817/MMETSP0371.nt.fa.gz
+MMETSP0382	ftp://ftp.imicrobe.us/projects/104/samples/1818/MMETSP0382.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1818/MMETSP0382.nt.fa.gz.md5
+MMETSP0398	ftp://ftp.imicrobe.us/projects/104/samples/1819/MMETSP0398.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1819/MMETSP0398.nt.fa.gz.md5
+MMETSP0384	ftp://ftp.imicrobe.us/projects/104/samples/1820/MMETSP0384.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1820/MMETSP0384.nt.fa.gz.md5
+MMETSP0397	ftp://ftp.imicrobe.us/projects/104/samples/1821/MMETSP0397.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1821/MMETSP0397.nt.fa.gz.md5
+MMETSP0372	ftp://ftp.imicrobe.us/projects/104/samples/1822/MMETSP0372.nt.fa.gz
+MMETSP0378	ftp://ftp.imicrobe.us/projects/104/samples/1823/MMETSP0378.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1823/MMETSP0378.nt.fa.gz.md5
+MMETSP0380	ftp://ftp.imicrobe.us/projects/104/samples/1824/MMETSP0380.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1824/MMETSP0380.nt.fa.gz.md5
+MMETSP0367	ftp://ftp.imicrobe.us/projects/104/samples/1825/MMETSP0367.nt.fa.gz
+MMETSP0368	ftp://ftp.imicrobe.us/projects/104/samples/1826/MMETSP0368.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1826/MMETSP0368.nt.fa.gz.md5
+MMETSP0369	ftp://ftp.imicrobe.us/projects/104/samples/1827/MMETSP0369.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1827/MMETSP0369.nt.fa.gz.md5
+MMETSP0413	ftp://ftp.imicrobe.us/projects/104/samples/1828/MMETSP0413.nt.fa.gz
+MMETSP0416	ftp://ftp.imicrobe.us/projects/104/samples/1829/MMETSP0416.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1829/MMETSP0416.nt.fa.gz.md5
+MMETSP0417	ftp://ftp.imicrobe.us/projects/104/samples/1830/MMETSP0417.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1830/MMETSP0417.nt.fa.gz.md5
+MMETSP0414	ftp://ftp.imicrobe.us/projects/104/samples/1831/MMETSP0414.nt.fa.gz
+MMETSP0415	ftp://ftp.imicrobe.us/projects/104/samples/1832/MMETSP0415.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1832/MMETSP0415.nt.fa.gz.md5
+MMETSP0403	ftp://ftp.imicrobe.us/projects/104/samples/1833/MMETSP0403.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1833/MMETSP0403.nt.fa.gz.md5
+MMETSP0404	ftp://ftp.imicrobe.us/projects/104/samples/1834/MMETSP0404.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1834/MMETSP0404.nt.fa.gz.md5
+MMETSP0405	ftp://ftp.imicrobe.us/projects/104/samples/1835/MMETSP0405.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1835/MMETSP0405.nt.fa.gz.md5
+MMETSP0409	ftp://ftp.imicrobe.us/projects/104/samples/1836/MMETSP0409.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1836/MMETSP0409.nt.fa.gz.md5
+MMETSP0410	ftp://ftp.imicrobe.us/projects/104/samples/1837/MMETSP0410.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1837/MMETSP0410.nt.fa.gz.md5
+MMETSP0411	ftp://ftp.imicrobe.us/projects/104/samples/1838/MMETSP0411.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1838/MMETSP0411.nt.fa.gz.md5
+MMETSP0420	ftp://ftp.imicrobe.us/projects/104/samples/1839/MMETSP0420.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1839/MMETSP0420.nt.fa.gz.md5
+MMETSP0434	ftp://ftp.imicrobe.us/projects/104/samples/1840/MMETSP0434.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1840/MMETSP0434.nt.fa.gz.md5
+MMETSP0449	ftp://ftp.imicrobe.us/projects/104/samples/1841/MMETSP0449.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1841/MMETSP0449.nt.fa.gz.md5
+MMETSP0451	ftp://ftp.imicrobe.us/projects/104/samples/1842/MMETSP0451.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1842/MMETSP0451.nt.fa.gz.md5
+MMETSP0468	ftp://ftp.imicrobe.us/projects/104/samples/1843/MMETSP0468.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1843/MMETSP0468.nt.fa.gz.md5
+MMETSP0469	ftp://ftp.imicrobe.us/projects/104/samples/1844/MMETSP0469.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1844/MMETSP0469.nt.fa.gz.md5
+MMETSP0470	ftp://ftp.imicrobe.us/projects/104/samples/1845/MMETSP0470.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1845/MMETSP0470.nt.fa.gz.md5
+MMETSP0463	ftp://ftp.imicrobe.us/projects/104/samples/1846/MMETSP0463.nt.fa.gz
+MMETSP0467	ftp://ftp.imicrobe.us/projects/104/samples/1847/MMETSP0467.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1847/MMETSP0467.nt.fa.gz.md5
+MMETSP0436	ftp://ftp.imicrobe.us/projects/104/samples/1848/MMETSP0436.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1848/MMETSP0436.nt.fa.gz.md5
+MMETSP0437	ftp://ftp.imicrobe.us/projects/104/samples/1849/MMETSP0437.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1849/MMETSP0437.nt.fa.gz.md5
+MMETSP0439	ftp://ftp.imicrobe.us/projects/104/samples/1850/MMETSP0439.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1850/MMETSP0439.nt.fa.gz.md5
+MMETSP0447	ftp://ftp.imicrobe.us/projects/104/samples/1851/MMETSP0447.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1851/MMETSP0447.nt.fa.gz.md5
+MMETSP0448	ftp://ftp.imicrobe.us/projects/104/samples/1852/MMETSP0448.nt.fa.gz
+MMETSP0418	ftp://ftp.imicrobe.us/projects/104/samples/1853/MMETSP0418.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1853/MMETSP0418.nt.fa.gz.md5
+MMETSP0419	ftp://ftp.imicrobe.us/projects/104/samples/1854/MMETSP0419.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1854/MMETSP0419.nt.fa.gz.md5
+MMETSP0959	ftp://ftp.imicrobe.us/projects/104/samples/1855/MMETSP0959.nt.fa.gz
+MMETSP0975	ftp://ftp.imicrobe.us/projects/104/samples/1856/MMETSP0975.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1856/MMETSP0975.nt.fa.gz.md5
+MMETSP0976	ftp://ftp.imicrobe.us/projects/104/samples/1857/MMETSP0976.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1857/MMETSP0976.nt.fa.gz.md5
+MMETSP1002	ftp://ftp.imicrobe.us/projects/104/samples/1858/MMETSP1002.nt.fa.gz
+MMETSP1005	ftp://ftp.imicrobe.us/projects/104/samples/1859/MMETSP1005.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1859/MMETSP1005.nt.fa.gz.md5
+MMETSP1032	ftp://ftp.imicrobe.us/projects/104/samples/1860/MMETSP1032.nt.fa.gz
+MMETSP1033	ftp://ftp.imicrobe.us/projects/104/samples/1861/MMETSP1033.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1861/MMETSP1033.nt.fa.gz.md5
+MMETSP1034	ftp://ftp.imicrobe.us/projects/104/samples/1862/MMETSP1034.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1862/MMETSP1034.nt.fa.gz.md5
+MMETSP1035	ftp://ftp.imicrobe.us/projects/104/samples/1863/MMETSP1035.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1863/MMETSP1035.nt.fa.gz.md5
+MMETSP1036	ftp://ftp.imicrobe.us/projects/104/samples/1864/MMETSP1036.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1864/MMETSP1036.nt.fa.gz.md5
+MMETSP1037	ftp://ftp.imicrobe.us/projects/104/samples/1865/MMETSP1037.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1865/MMETSP1037.nt.fa.gz.md5
+MMETSP1038	ftp://ftp.imicrobe.us/projects/104/samples/1866/MMETSP1038.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1866/MMETSP1038.nt.fa.gz.md5
+MMETSP1039	ftp://ftp.imicrobe.us/projects/104/samples/1867/MMETSP1039.nt.fa.gz
+MMETSP1040	ftp://ftp.imicrobe.us/projects/104/samples/1868/MMETSP1040.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1868/MMETSP1040.nt.fa.gz.md5
+MMETSP1041	ftp://ftp.imicrobe.us/projects/104/samples/1869/MMETSP1041.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1869/MMETSP1041.nt.fa.gz.md5
+MMETSP1042	ftp://ftp.imicrobe.us/projects/104/samples/1870/MMETSP1042.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1870/MMETSP1042.nt.fa.gz.md5
+MMETSP1043	ftp://ftp.imicrobe.us/projects/104/samples/1871/MMETSP1043.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1871/MMETSP1043.nt.fa.gz.md5
+MMETSP1047	ftp://ftp.imicrobe.us/projects/104/samples/1872/MMETSP1047.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1872/MMETSP1047.nt.fa.gz.md5
+MMETSP1048	ftp://ftp.imicrobe.us/projects/104/samples/1873/MMETSP1048.nt.fa.gz
+MMETSP1049	ftp://ftp.imicrobe.us/projects/104/samples/1874/MMETSP1049.nt.fa.gz
+MMETSP1050	ftp://ftp.imicrobe.us/projects/104/samples/1875/MMETSP1050.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1875/MMETSP1050.nt.fa.gz.md5
+MMETSP1052	ftp://ftp.imicrobe.us/projects/104/samples/1876/MMETSP1052.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1876/MMETSP1052.nt.fa.gz.md5
+MMETSP1054	ftp://ftp.imicrobe.us/projects/104/samples/1877/MMETSP1054.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1877/MMETSP1054.nt.fa.gz.md5
+MMETSP1055	ftp://ftp.imicrobe.us/projects/104/samples/1878/MMETSP1055.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1878/MMETSP1055.nt.fa.gz.md5
+MMETSP1057	ftp://ftp.imicrobe.us/projects/104/samples/1879/MMETSP1057.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1879/MMETSP1057.nt.fa.gz.md5
+MMETSP1058	ftp://ftp.imicrobe.us/projects/104/samples/1880/MMETSP1058.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1880/MMETSP1058.nt.fa.gz.md5
+MMETSP1059	ftp://ftp.imicrobe.us/projects/104/samples/1881/MMETSP1059.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1881/MMETSP1059.nt.fa.gz.md5
+MMETSP1060	ftp://ftp.imicrobe.us/projects/104/samples/1882/MMETSP1060.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1882/MMETSP1060.nt.fa.gz.md5
+MMETSP1075	ftp://ftp.imicrobe.us/projects/104/samples/1883/MMETSP1075.nt.fa.gz
+MMETSP1080	ftp://ftp.imicrobe.us/projects/104/samples/1884/MMETSP1080.nt.fa.gz
+MMETSP1115	ftp://ftp.imicrobe.us/projects/104/samples/1885/MMETSP1115.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1885/MMETSP1115.nt.fa.gz.md5
+MMETSP1116	ftp://ftp.imicrobe.us/projects/104/samples/1886/MMETSP1116.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1886/MMETSP1116.nt.fa.gz.md5
+MMETSP1117	ftp://ftp.imicrobe.us/projects/104/samples/1887/MMETSP1117.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1887/MMETSP1117.nt.fa.gz.md5
+MMETSP1061	ftp://ftp.imicrobe.us/projects/104/samples/1888/MMETSP1061.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1888/MMETSP1061.nt.fa.gz.md5
+MMETSP1062	ftp://ftp.imicrobe.us/projects/104/samples/1889/MMETSP1062.nt.fa.gz
+MMETSP1063	ftp://ftp.imicrobe.us/projects/104/samples/1890/MMETSP1063.nt.fa.gz
+MMETSP1086	ftp://ftp.imicrobe.us/projects/104/samples/1891/MMETSP1086.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1891/MMETSP1086.nt.fa.gz.md5
+MMETSP1064	ftp://ftp.imicrobe.us/projects/104/samples/1892/MMETSP1064.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1892/MMETSP1064.nt.fa.gz.md5
+MMETSP1066	ftp://ftp.imicrobe.us/projects/104/samples/1893/MMETSP1066.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1893/MMETSP1066.nt.fa.gz.md5
+MMETSP1067	ftp://ftp.imicrobe.us/projects/104/samples/1894/MMETSP1067.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1894/MMETSP1067.nt.fa.gz.md5
+MMETSP1089	ftp://ftp.imicrobe.us/projects/104/samples/1895/MMETSP1089.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1895/MMETSP1089.nt.fa.gz.md5
+MMETSP1095	ftp://ftp.imicrobe.us/projects/104/samples/1896/MMETSP1095.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1896/MMETSP1095.nt.fa.gz.md5
+MMETSP1122	ftp://ftp.imicrobe.us/projects/104/samples/1897/MMETSP1122.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1897/MMETSP1122.nt.fa.gz.md5
+MMETSP1123	ftp://ftp.imicrobe.us/projects/104/samples/1898/MMETSP1123.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1898/MMETSP1123.nt.fa.gz.md5
+MMETSP1068	ftp://ftp.imicrobe.us/projects/104/samples/1899/MMETSP1068.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1899/MMETSP1068.nt.fa.gz.md5
+MMETSP1070	ftp://ftp.imicrobe.us/projects/104/samples/1900/MMETSP1070.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1900/MMETSP1070.nt.fa.gz.md5
+MMETSP1096	ftp://ftp.imicrobe.us/projects/104/samples/1901/MMETSP1096.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1901/MMETSP1096.nt.fa.gz.md5
+MMETSP1097	ftp://ftp.imicrobe.us/projects/104/samples/1902/MMETSP1097.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1902/MMETSP1097.nt.fa.gz.md5
+MMETSP1124	ftp://ftp.imicrobe.us/projects/104/samples/1903/MMETSP1124.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1903/MMETSP1124.nt.fa.gz.md5
+MMETSP1125	ftp://ftp.imicrobe.us/projects/104/samples/1904/MMETSP1125.nt.fa.gz
+MMETSP1126	ftp://ftp.imicrobe.us/projects/104/samples/1905/MMETSP1126.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1905/MMETSP1126.nt.fa.gz.md5
+MMETSP1071	ftp://ftp.imicrobe.us/projects/104/samples/1906/MMETSP1071.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1906/MMETSP1071.nt.fa.gz.md5
+MMETSP1100	ftp://ftp.imicrobe.us/projects/104/samples/1907/MMETSP1100.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1907/MMETSP1100.nt.fa.gz.md5
+MMETSP1127	ftp://ftp.imicrobe.us/projects/104/samples/1908/MMETSP1127.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1908/MMETSP1127.nt.fa.gz.md5
+MMETSP1128	ftp://ftp.imicrobe.us/projects/104/samples/1909/MMETSP1128.nt.fa.gz
+MMETSP1129	ftp://ftp.imicrobe.us/projects/104/samples/1910/MMETSP1129.nt.fa.gz
+MMETSP1074	ftp://ftp.imicrobe.us/projects/104/samples/1911/MMETSP1074.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1911/MMETSP1074.nt.fa.gz.md5
+MMETSP1130	ftp://ftp.imicrobe.us/projects/104/samples/1912/MMETSP1130.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1912/MMETSP1130.nt.fa.gz.md5
+MMETSP1131	ftp://ftp.imicrobe.us/projects/104/samples/1913/MMETSP1131.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1913/MMETSP1131.nt.fa.gz.md5
+MMETSP1132	ftp://ftp.imicrobe.us/projects/104/samples/1914/MMETSP1132.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1914/MMETSP1132.nt.fa.gz.md5
+MMETSP0944	ftp://ftp.imicrobe.us/projects/104/samples/1915/MMETSP0944.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1915/MMETSP0944.nt.fa.gz.md5
+MMETSP0945	ftp://ftp.imicrobe.us/projects/104/samples/1916/MMETSP0945.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1916/MMETSP0945.nt.fa.gz.md5
+MMETSP0946	ftp://ftp.imicrobe.us/projects/104/samples/1917/MMETSP0946.nt.fa.gz
+MMETSP0960	ftp://ftp.imicrobe.us/projects/104/samples/1918/MMETSP0960.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1918/MMETSP0960.nt.fa.gz.md5
+MMETSP0977	ftp://ftp.imicrobe.us/projects/104/samples/1919/MMETSP0977.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1919/MMETSP0977.nt.fa.gz.md5
+MMETSP0983	ftp://ftp.imicrobe.us/projects/104/samples/1920/MMETSP0983.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1920/MMETSP0983.nt.fa.gz.md5
+MMETSP0984	ftp://ftp.imicrobe.us/projects/104/samples/1921/MMETSP0984.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1921/MMETSP0984.nt.fa.gz.md5
+MMETSP1006	ftp://ftp.imicrobe.us/projects/104/samples/1922/MMETSP1006.nt.fa.gz
+MMETSP0947	ftp://ftp.imicrobe.us/projects/104/samples/1923/MMETSP0947.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1923/MMETSP0947.nt.fa.gz.md5
+MMETSP0948	ftp://ftp.imicrobe.us/projects/104/samples/1924/MMETSP0948.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1924/MMETSP0948.nt.fa.gz.md5
+MMETSP0961	ftp://ftp.imicrobe.us/projects/104/samples/1925/MMETSP0961.nt.fa.gz
+MMETSP0985	ftp://ftp.imicrobe.us/projects/104/samples/1926/MMETSP0985.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1926/MMETSP0985.nt.fa.gz.md5
+MMETSP0986	ftp://ftp.imicrobe.us/projects/104/samples/1927/MMETSP0986.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1927/MMETSP0986.nt.fa.gz.md5
+MMETSP1007	ftp://ftp.imicrobe.us/projects/104/samples/1928/MMETSP1007.nt.fa.gz
+MMETSP0949	ftp://ftp.imicrobe.us/projects/104/samples/1929/MMETSP0949.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1929/MMETSP0949.nt.fa.gz.md5
+MMETSP0950	ftp://ftp.imicrobe.us/projects/104/samples/1930/MMETSP0950.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1930/MMETSP0950.nt.fa.gz.md5
+MMETSP0962	ftp://ftp.imicrobe.us/projects/104/samples/1931/MMETSP0962.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1931/MMETSP0962.nt.fa.gz.md5
+MMETSP0987	ftp://ftp.imicrobe.us/projects/104/samples/1932/MMETSP0987.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1932/MMETSP0987.nt.fa.gz.md5
+MMETSP0988	ftp://ftp.imicrobe.us/projects/104/samples/1933/MMETSP0988.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1933/MMETSP0988.nt.fa.gz.md5
+MMETSP1008	ftp://ftp.imicrobe.us/projects/104/samples/1934/MMETSP1008.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1934/MMETSP1008.nt.fa.gz.md5
+MMETSP0954	ftp://ftp.imicrobe.us/projects/104/samples/1935/MMETSP0954.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1935/MMETSP0954.nt.fa.gz.md5
+MMETSP0963	ftp://ftp.imicrobe.us/projects/104/samples/1936/MMETSP0963.nt.fa.gz
+MMETSP0989	ftp://ftp.imicrobe.us/projects/104/samples/1937/MMETSP0989.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1937/MMETSP0989.nt.fa.gz.md5
+MMETSP0990	ftp://ftp.imicrobe.us/projects/104/samples/1938/MMETSP0990.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1938/MMETSP0990.nt.fa.gz.md5
+MMETSP1009	ftp://ftp.imicrobe.us/projects/104/samples/1939/MMETSP1009.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1939/MMETSP1009.nt.fa.gz.md5
+MMETSP1010	ftp://ftp.imicrobe.us/projects/104/samples/1940/MMETSP1010.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1940/MMETSP1010.nt.fa.gz.md5
+MMETSP0955	ftp://ftp.imicrobe.us/projects/104/samples/1941/MMETSP0955.nt.fa.gz
+MMETSP0964	ftp://ftp.imicrobe.us/projects/104/samples/1942/MMETSP0964.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1942/MMETSP0964.nt.fa.gz.md5
+MMETSP0991	ftp://ftp.imicrobe.us/projects/104/samples/1943/MMETSP0991.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1943/MMETSP0991.nt.fa.gz.md5
+MMETSP0992	ftp://ftp.imicrobe.us/projects/104/samples/1944/MMETSP0992.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1944/MMETSP0992.nt.fa.gz.md5
+MMETSP0993	ftp://ftp.imicrobe.us/projects/104/samples/1945/MMETSP0993.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1945/MMETSP0993.nt.fa.gz.md5
+MMETSP1013	ftp://ftp.imicrobe.us/projects/104/samples/1946/MMETSP1013.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1946/MMETSP1013.nt.fa.gz.md5
+MMETSP1015	ftp://ftp.imicrobe.us/projects/104/samples/1947/MMETSP1015.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1947/MMETSP1015.nt.fa.gz.md5
+MMETSP0956	ftp://ftp.imicrobe.us/projects/104/samples/1948/MMETSP0956.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1948/MMETSP0956.nt.fa.gz.md5
+MMETSP0965	ftp://ftp.imicrobe.us/projects/104/samples/1949/MMETSP0965.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1949/MMETSP0965.nt.fa.gz.md5
+MMETSP0970	ftp://ftp.imicrobe.us/projects/104/samples/1950/MMETSP0970.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1950/MMETSP0970.nt.fa.gz.md5
+MMETSP0994	ftp://ftp.imicrobe.us/projects/104/samples/1951/MMETSP0994.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1951/MMETSP0994.nt.fa.gz.md5
+MMETSP0995	ftp://ftp.imicrobe.us/projects/104/samples/1952/MMETSP0995.nt.fa.gz
+MMETSP1016	ftp://ftp.imicrobe.us/projects/104/samples/1953/MMETSP1016.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1953/MMETSP1016.nt.fa.gz.md5
+MMETSP1017	ftp://ftp.imicrobe.us/projects/104/samples/1954/MMETSP1017.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1954/MMETSP1017.nt.fa.gz.md5
+MMETSP0957	ftp://ftp.imicrobe.us/projects/104/samples/1955/MMETSP0957.nt.fa.gz
+MMETSP0971	ftp://ftp.imicrobe.us/projects/104/samples/1956/MMETSP0971.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1956/MMETSP0971.nt.fa.gz.md5
+MMETSP0972	ftp://ftp.imicrobe.us/projects/104/samples/1957/MMETSP0972.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1957/MMETSP0972.nt.fa.gz.md5
+MMETSP0996	ftp://ftp.imicrobe.us/projects/104/samples/1958/MMETSP0996.nt.fa.gz
+MMETSP0997	ftp://ftp.imicrobe.us/projects/104/samples/1959/MMETSP0997.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1959/MMETSP0997.nt.fa.gz.md5
+MMETSP1018	ftp://ftp.imicrobe.us/projects/104/samples/1960/MMETSP1018.nt.fa.gz
+MMETSP0958	ftp://ftp.imicrobe.us/projects/104/samples/1961/MMETSP0958.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1961/MMETSP0958.nt.fa.gz.md5
+MMETSP0973	ftp://ftp.imicrobe.us/projects/104/samples/1962/MMETSP0973.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1962/MMETSP0973.nt.fa.gz.md5
+MMETSP0974	ftp://ftp.imicrobe.us/projects/104/samples/1963/MMETSP0974.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1963/MMETSP0974.nt.fa.gz.md5
+MMETSP0998	ftp://ftp.imicrobe.us/projects/104/samples/1964/MMETSP0998.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1964/MMETSP0998.nt.fa.gz.md5
+MMETSP1001	ftp://ftp.imicrobe.us/projects/104/samples/1965/MMETSP1001.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1965/MMETSP1001.nt.fa.gz.md5
+MMETSP0648	ftp://ftp.imicrobe.us/projects/104/samples/1966/MMETSP0648.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1966/MMETSP0648.nt.fa.gz.md5
+MMETSP0725	ftp://ftp.imicrobe.us/projects/104/samples/1967/MMETSP0725.nt.fa.gz
+MMETSP0726	ftp://ftp.imicrobe.us/projects/104/samples/1968/MMETSP0726.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1968/MMETSP0726.nt.fa.gz.md5
+MMETSP0727	ftp://ftp.imicrobe.us/projects/104/samples/1969/MMETSP0727.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1969/MMETSP0727.nt.fa.gz.md5
+MMETSP0815	ftp://ftp.imicrobe.us/projects/104/samples/1970/MMETSP0815.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1970/MMETSP0815.nt.fa.gz.md5
+MMETSP0816	ftp://ftp.imicrobe.us/projects/104/samples/1971/MMETSP0816.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1971/MMETSP0816.nt.fa.gz.md5
+MMETSP0817	ftp://ftp.imicrobe.us/projects/104/samples/1972/MMETSP0817.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1972/MMETSP0817.nt.fa.gz.md5
+MMETSP0888	ftp://ftp.imicrobe.us/projects/104/samples/1973/MMETSP0888.nt.fa.gz
+MMETSP0889	ftp://ftp.imicrobe.us/projects/104/samples/1974/MMETSP0889.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1974/MMETSP0889.nt.fa.gz.md5
+MMETSP0890	ftp://ftp.imicrobe.us/projects/104/samples/1975/MMETSP0890.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1975/MMETSP0890.nt.fa.gz.md5
+MMETSP0891	ftp://ftp.imicrobe.us/projects/104/samples/1976/MMETSP0891.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1976/MMETSP0891.nt.fa.gz.md5
+MMETSP0733	ftp://ftp.imicrobe.us/projects/104/samples/1977/MMETSP0733.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1977/MMETSP0733.nt.fa.gz.md5
+MMETSP0734	ftp://ftp.imicrobe.us/projects/104/samples/1978/MMETSP0734.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1978/MMETSP0734.nt.fa.gz.md5
+MMETSP0735	ftp://ftp.imicrobe.us/projects/104/samples/1979/MMETSP0735.nt.fa.gz
+MMETSP0892	ftp://ftp.imicrobe.us/projects/104/samples/1980/MMETSP0892.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1980/MMETSP0892.nt.fa.gz.md5
+MMETSP0893	ftp://ftp.imicrobe.us/projects/104/samples/1981/MMETSP0893.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1981/MMETSP0893.nt.fa.gz.md5
+MMETSP0894	ftp://ftp.imicrobe.us/projects/104/samples/1982/MMETSP0894.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1982/MMETSP0894.nt.fa.gz.md5
+MMETSP0895	ftp://ftp.imicrobe.us/projects/104/samples/1983/MMETSP0895.nt.fa.gz
+MMETSP0896	ftp://ftp.imicrobe.us/projects/104/samples/1984/MMETSP0896.nt.fa.gz
+MMETSP0897	ftp://ftp.imicrobe.us/projects/104/samples/1985/MMETSP0897.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1985/MMETSP0897.nt.fa.gz.md5
+MMETSP0736	ftp://ftp.imicrobe.us/projects/104/samples/1986/MMETSP0736.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1986/MMETSP0736.nt.fa.gz.md5
+MMETSP0737	ftp://ftp.imicrobe.us/projects/104/samples/1987/MMETSP0737.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1987/MMETSP0737.nt.fa.gz.md5
+MMETSP0738	ftp://ftp.imicrobe.us/projects/104/samples/1988/MMETSP0738.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1988/MMETSP0738.nt.fa.gz.md5
+MMETSP0898	ftp://ftp.imicrobe.us/projects/104/samples/1989/MMETSP0898.nt.fa.gz
+MMETSP0899	ftp://ftp.imicrobe.us/projects/104/samples/1990/MMETSP0899.nt.fa.gz
+MMETSP0900	ftp://ftp.imicrobe.us/projects/104/samples/1991/MMETSP0900.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1991/MMETSP0900.nt.fa.gz.md5
+MMETSP0901	ftp://ftp.imicrobe.us/projects/104/samples/1992/MMETSP0901.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1992/MMETSP0901.nt.fa.gz.md5
+MMETSP0902	ftp://ftp.imicrobe.us/projects/104/samples/1993/MMETSP0902.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1993/MMETSP0902.nt.fa.gz.md5
+MMETSP0903	ftp://ftp.imicrobe.us/projects/104/samples/1994/MMETSP0903.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1994/MMETSP0903.nt.fa.gz.md5
+MMETSP0904	ftp://ftp.imicrobe.us/projects/104/samples/1995/MMETSP0904.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1995/MMETSP0904.nt.fa.gz.md5
+MMETSP0905	ftp://ftp.imicrobe.us/projects/104/samples/1996/MMETSP0905.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1996/MMETSP0905.nt.fa.gz.md5
+MMETSP0739	ftp://ftp.imicrobe.us/projects/104/samples/1997/MMETSP0739.nt.fa.gz
+MMETSP0740	ftp://ftp.imicrobe.us/projects/104/samples/1998/MMETSP0740.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1998/MMETSP0740.nt.fa.gz.md5
+MMETSP0744	ftp://ftp.imicrobe.us/projects/104/samples/1999/MMETSP0744.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/1999/MMETSP0744.nt.fa.gz.md5
+MMETSP0906	ftp://ftp.imicrobe.us/projects/104/samples/2000/MMETSP0906.nt.fa.gz
+MMETSP0907	ftp://ftp.imicrobe.us/projects/104/samples/2001/MMETSP0907.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2001/MMETSP0907.nt.fa.gz.md5
+MMETSP0908	ftp://ftp.imicrobe.us/projects/104/samples/2002/MMETSP0908.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2002/MMETSP0908.nt.fa.gz.md5
+MMETSP0909	ftp://ftp.imicrobe.us/projects/104/samples/2003/MMETSP0909.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2003/MMETSP0909.nt.fa.gz.md5
+MMETSP0914	ftp://ftp.imicrobe.us/projects/104/samples/2004/MMETSP0914.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2004/MMETSP0914.nt.fa.gz.md5
+MMETSP0924	ftp://ftp.imicrobe.us/projects/104/samples/2005/MMETSP0924.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2005/MMETSP0924.nt.fa.gz.md5
+MMETSP0745	ftp://ftp.imicrobe.us/projects/104/samples/2006/MMETSP0745.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2006/MMETSP0745.nt.fa.gz.md5
+MMETSP0746	ftp://ftp.imicrobe.us/projects/104/samples/2007/MMETSP0746.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2007/MMETSP0746.nt.fa.gz.md5
+MMETSP0747	ftp://ftp.imicrobe.us/projects/104/samples/2008/MMETSP0747.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2008/MMETSP0747.nt.fa.gz.md5
+MMETSP0915	ftp://ftp.imicrobe.us/projects/104/samples/2009/MMETSP0915.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2009/MMETSP0915.nt.fa.gz.md5
+MMETSP0916	ftp://ftp.imicrobe.us/projects/104/samples/2010/MMETSP0916.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2010/MMETSP0916.nt.fa.gz.md5
+MMETSP0929	ftp://ftp.imicrobe.us/projects/104/samples/2011/MMETSP0929.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2011/MMETSP0929.nt.fa.gz.md5
+MMETSP0936	ftp://ftp.imicrobe.us/projects/104/samples/2012/MMETSP0936.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2012/MMETSP0936.nt.fa.gz.md5
+MMETSP0937	ftp://ftp.imicrobe.us/projects/104/samples/2013/MMETSP0937.nt.fa.gz
+MMETSP0938	ftp://ftp.imicrobe.us/projects/104/samples/2014/MMETSP0938.nt.fa.gz
+MMETSP0751	ftp://ftp.imicrobe.us/projects/104/samples/2015/MMETSP0751.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2015/MMETSP0751.nt.fa.gz.md5
+MMETSP0752	ftp://ftp.imicrobe.us/projects/104/samples/2016/MMETSP0752.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2016/MMETSP0752.nt.fa.gz.md5
+MMETSP0753	ftp://ftp.imicrobe.us/projects/104/samples/2017/MMETSP0753.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2017/MMETSP0753.nt.fa.gz.md5
+MMETSP0930	ftp://ftp.imicrobe.us/projects/104/samples/2018/MMETSP0930.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2018/MMETSP0930.nt.fa.gz.md5
+MMETSP0932	ftp://ftp.imicrobe.us/projects/104/samples/2019/MMETSP0932.nt.fa.gz
+MMETSP0939	ftp://ftp.imicrobe.us/projects/104/samples/2020/MMETSP0939.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2020/MMETSP0939.nt.fa.gz.md5
+MMETSP0941	ftp://ftp.imicrobe.us/projects/104/samples/2021/MMETSP0941.nt.fa.gz
+MMETSP0917	ftp://ftp.imicrobe.us/projects/104/samples/2022/MMETSP0917.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2022/MMETSP0917.nt.fa.gz.md5
+MMETSP0918	ftp://ftp.imicrobe.us/projects/104/samples/2023/MMETSP0918.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2023/MMETSP0918.nt.fa.gz.md5
+MMETSP0754	ftp://ftp.imicrobe.us/projects/104/samples/2024/MMETSP0754.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2024/MMETSP0754.nt.fa.gz.md5
+MMETSP0758	ftp://ftp.imicrobe.us/projects/104/samples/2025/MMETSP0758.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2025/MMETSP0758.nt.fa.gz.md5
+MMETSP0942	ftp://ftp.imicrobe.us/projects/104/samples/2026/MMETSP0942.nt.fa.gz
+MMETSP0943	ftp://ftp.imicrobe.us/projects/104/samples/2027/MMETSP0943.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2027/MMETSP0943.nt.fa.gz.md5
+MMETSP0933	ftp://ftp.imicrobe.us/projects/104/samples/2028/MMETSP0933.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2028/MMETSP0933.nt.fa.gz.md5
+MMETSP0759	ftp://ftp.imicrobe.us/projects/104/samples/2029/MMETSP0759.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2029/MMETSP0759.nt.fa.gz.md5
+MMETSP0766	ftp://ftp.imicrobe.us/projects/104/samples/2030/MMETSP0766.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2030/MMETSP0766.nt.fa.gz.md5
+MMETSP0780	ftp://ftp.imicrobe.us/projects/104/samples/2031/MMETSP0780.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2031/MMETSP0780.nt.fa.gz.md5
+MMETSP0922	ftp://ftp.imicrobe.us/projects/104/samples/2032/MMETSP0922.nt.fa.gz
+MMETSP0471	ftp://ftp.imicrobe.us/projects/104/samples/2033/MMETSP0471.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2033/MMETSP0471.nt.fa.gz.md5
+MMETSP0472	ftp://ftp.imicrobe.us/projects/104/samples/2034/MMETSP0472.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2034/MMETSP0472.nt.fa.gz.md5
+MMETSP0649	ftp://ftp.imicrobe.us/projects/104/samples/2035/MMETSP0649.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2035/MMETSP0649.nt.fa.gz.md5
+MMETSP0661	ftp://ftp.imicrobe.us/projects/104/samples/2036/MMETSP0661.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2036/MMETSP0661.nt.fa.gz.md5
+MMETSP0785	ftp://ftp.imicrobe.us/projects/104/samples/2037/MMETSP0785.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2037/MMETSP0785.nt.fa.gz.md5
+MMETSP0786	ftp://ftp.imicrobe.us/projects/104/samples/2038/MMETSP0786.nt.fa.gz
+MMETSP0789	ftp://ftp.imicrobe.us/projects/104/samples/2039/MMETSP0789.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2039/MMETSP0789.nt.fa.gz.md5
+MMETSP0818	ftp://ftp.imicrobe.us/projects/104/samples/2040/MMETSP0818.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2040/MMETSP0818.nt.fa.gz.md5
+MMETSP0819	ftp://ftp.imicrobe.us/projects/104/samples/2041/MMETSP0819.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2041/MMETSP0819.nt.fa.gz.md5
+MMETSP0820	ftp://ftp.imicrobe.us/projects/104/samples/2042/MMETSP0820.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2042/MMETSP0820.nt.fa.gz.md5
+MMETSP0484	ftp://ftp.imicrobe.us/projects/104/samples/2043/MMETSP0484.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2043/MMETSP0484.nt.fa.gz.md5
+MMETSP0689	ftp://ftp.imicrobe.us/projects/104/samples/2044/MMETSP0689.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2044/MMETSP0689.nt.fa.gz.md5
+MMETSP0794	ftp://ftp.imicrobe.us/projects/104/samples/2045/MMETSP0794.nt.fa.gz
+MMETSP0795	ftp://ftp.imicrobe.us/projects/104/samples/2046/MMETSP0795.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2046/MMETSP0795.nt.fa.gz.md5
+MMETSP0850	ftp://ftp.imicrobe.us/projects/104/samples/2047/MMETSP0850.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2047/MMETSP0850.nt.fa.gz.md5
+MMETSP0491	ftp://ftp.imicrobe.us/projects/104/samples/2048/MMETSP0491.nt.fa.gz
+MMETSP0796	ftp://ftp.imicrobe.us/projects/104/samples/2049/MMETSP0796.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2049/MMETSP0796.nt.fa.gz.md5
+MMETSP0797	ftp://ftp.imicrobe.us/projects/104/samples/2050/MMETSP0797.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2050/MMETSP0797.nt.fa.gz.md5
+MMETSP0798	ftp://ftp.imicrobe.us/projects/104/samples/2051/MMETSP0798.nt.fa.gz
+MMETSP0851	ftp://ftp.imicrobe.us/projects/104/samples/2052/MMETSP0851.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2052/MMETSP0851.nt.fa.gz.md5
+MMETSP0852	ftp://ftp.imicrobe.us/projects/104/samples/2053/MMETSP0852.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2053/MMETSP0852.nt.fa.gz.md5
+MMETSP0527	ftp://ftp.imicrobe.us/projects/104/samples/2054/MMETSP0527.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2054/MMETSP0527.nt.fa.gz.md5
+MMETSP0799	ftp://ftp.imicrobe.us/projects/104/samples/2055/MMETSP0799.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2055/MMETSP0799.nt.fa.gz.md5
+MMETSP0800	ftp://ftp.imicrobe.us/projects/104/samples/2056/MMETSP0800.nt.fa.gz
+MMETSP0802	ftp://ftp.imicrobe.us/projects/104/samples/2057/MMETSP0802.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2057/MMETSP0802.nt.fa.gz.md5
+MMETSP0853	ftp://ftp.imicrobe.us/projects/104/samples/2058/MMETSP0853.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2058/MMETSP0853.nt.fa.gz.md5
+MMETSP0878	ftp://ftp.imicrobe.us/projects/104/samples/2059/MMETSP0878.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2059/MMETSP0878.nt.fa.gz.md5
+MMETSP0879	ftp://ftp.imicrobe.us/projects/104/samples/2060/MMETSP0879.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2060/MMETSP0879.nt.fa.gz.md5
+MMETSP0528	ftp://ftp.imicrobe.us/projects/104/samples/2061/MMETSP0528.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2061/MMETSP0528.nt.fa.gz.md5
+MMETSP0562	ftp://ftp.imicrobe.us/projects/104/samples/2062/MMETSP0562.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2062/MMETSP0562.nt.fa.gz.md5
+MMETSP0705	ftp://ftp.imicrobe.us/projects/104/samples/2063/MMETSP0705.nt.fa.gz
+MMETSP0803	ftp://ftp.imicrobe.us/projects/104/samples/2064/MMETSP0803.nt.fa.gz
+MMETSP0804	ftp://ftp.imicrobe.us/projects/104/samples/2065/MMETSP0804.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2065/MMETSP0804.nt.fa.gz.md5
+MMETSP0806	ftp://ftp.imicrobe.us/projects/104/samples/2066/MMETSP0806.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2066/MMETSP0806.nt.fa.gz.md5
+MMETSP0880	ftp://ftp.imicrobe.us/projects/104/samples/2067/MMETSP0880.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2067/MMETSP0880.nt.fa.gz.md5
+MMETSP0881	ftp://ftp.imicrobe.us/projects/104/samples/2068/MMETSP0881.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2068/MMETSP0881.nt.fa.gz.md5
+MMETSP0563	ftp://ftp.imicrobe.us/projects/104/samples/2069/MMETSP0563.nt.fa.gz
+MMETSP0573	ftp://ftp.imicrobe.us/projects/104/samples/2070/MMETSP0573.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2070/MMETSP0573.nt.fa.gz.md5
+MMETSP0706	ftp://ftp.imicrobe.us/projects/104/samples/2071/MMETSP0706.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2071/MMETSP0706.nt.fa.gz.md5
+MMETSP0707	ftp://ftp.imicrobe.us/projects/104/samples/2072/MMETSP0707.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2072/MMETSP0707.nt.fa.gz.md5
+MMETSP0708	ftp://ftp.imicrobe.us/projects/104/samples/2073/MMETSP0708.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2073/MMETSP0708.nt.fa.gz.md5
+MMETSP0807	ftp://ftp.imicrobe.us/projects/104/samples/2074/MMETSP0807.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2074/MMETSP0807.nt.fa.gz.md5
+MMETSP0809	ftp://ftp.imicrobe.us/projects/104/samples/2075/MMETSP0809.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2075/MMETSP0809.nt.fa.gz.md5
+MMETSP0810	ftp://ftp.imicrobe.us/projects/104/samples/2076/MMETSP0810.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2076/MMETSP0810.nt.fa.gz.md5
+MMETSP0882	ftp://ftp.imicrobe.us/projects/104/samples/2077/MMETSP0882.nt.fa.gz
+MMETSP0883	ftp://ftp.imicrobe.us/projects/104/samples/2078/MMETSP0883.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2078/MMETSP0883.nt.fa.gz.md5
+MMETSP0574	ftp://ftp.imicrobe.us/projects/104/samples/2079/MMETSP0574.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2079/MMETSP0574.nt.fa.gz.md5
+MMETSP0578	ftp://ftp.imicrobe.us/projects/104/samples/2080/MMETSP0578.nt.fa.gz
+MMETSP0713	ftp://ftp.imicrobe.us/projects/104/samples/2081/MMETSP0713.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2081/MMETSP0713.nt.fa.gz.md5
+MMETSP0716	ftp://ftp.imicrobe.us/projects/104/samples/2082/MMETSP0716.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2082/MMETSP0716.nt.fa.gz.md5
+MMETSP0717	ftp://ftp.imicrobe.us/projects/104/samples/2083/MMETSP0717.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2083/MMETSP0717.nt.fa.gz.md5
+MMETSP0811	ftp://ftp.imicrobe.us/projects/104/samples/2084/MMETSP0811.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2084/MMETSP0811.nt.fa.gz.md5
+MMETSP0812	ftp://ftp.imicrobe.us/projects/104/samples/2085/MMETSP0812.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2085/MMETSP0812.nt.fa.gz.md5
+MMETSP0884	ftp://ftp.imicrobe.us/projects/104/samples/2086/MMETSP0884.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2086/MMETSP0884.nt.fa.gz.md5
+MMETSP0885	ftp://ftp.imicrobe.us/projects/104/samples/2087/MMETSP0885.nt.fa.gz
+MMETSP0593	ftp://ftp.imicrobe.us/projects/104/samples/2088/MMETSP0593.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2088/MMETSP0593.nt.fa.gz.md5
+MMETSP0718	ftp://ftp.imicrobe.us/projects/104/samples/2089/MMETSP0718.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2089/MMETSP0718.nt.fa.gz.md5
+MMETSP0719	ftp://ftp.imicrobe.us/projects/104/samples/2090/MMETSP0719.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2090/MMETSP0719.nt.fa.gz.md5
+MMETSP0724	ftp://ftp.imicrobe.us/projects/104/samples/2091/MMETSP0724.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2091/MMETSP0724.nt.fa.gz.md5
+MMETSP0814	ftp://ftp.imicrobe.us/projects/104/samples/2092/MMETSP0814.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2092/MMETSP0814.nt.fa.gz.md5
+MMETSP0886	ftp://ftp.imicrobe.us/projects/104/samples/2093/MMETSP0886.nt.fa.gz
+MMETSP0887	ftp://ftp.imicrobe.us/projects/104/samples/2094/MMETSP0887.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2094/MMETSP0887.nt.fa.gz.md5
+MMETSP0595	ftp://ftp.imicrobe.us/projects/104/samples/2095/MMETSP0595.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2095/MMETSP0595.nt.fa.gz.md5
+MMETSP0603	ftp://ftp.imicrobe.us/projects/104/samples/2096/MMETSP0603.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2096/MMETSP0603.nt.fa.gz.md5
+MMETSP0604	ftp://ftp.imicrobe.us/projects/104/samples/2097/MMETSP0604.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2097/MMETSP0604.nt.fa.gz.md5
+MMETSP1163	ftp://ftp.imicrobe.us/projects/104/samples/2098/MMETSP1163.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2098/MMETSP1163.nt.fa.gz.md5
+MMETSP1164	ftp://ftp.imicrobe.us/projects/104/samples/2099/MMETSP1164.nt.fa.gz
+MMETSP1165	ftp://ftp.imicrobe.us/projects/104/samples/2100/MMETSP1165.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2100/MMETSP1165.nt.fa.gz.md5
+MMETSP1318	ftp://ftp.imicrobe.us/projects/104/samples/2101/MMETSP1318.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2101/MMETSP1318.nt.fa.gz.md5
+MMETSP1319	ftp://ftp.imicrobe.us/projects/104/samples/2102/MMETSP1319.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2102/MMETSP1319.nt.fa.gz.md5
+MMETSP1320	ftp://ftp.imicrobe.us/projects/104/samples/2103/MMETSP1320.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2103/MMETSP1320.nt.fa.gz.md5
+MMETSP1347	ftp://ftp.imicrobe.us/projects/104/samples/2104/MMETSP1347.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2104/MMETSP1347.nt.fa.gz.md5
+MMETSP1167	ftp://ftp.imicrobe.us/projects/104/samples/2105/MMETSP1167.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2105/MMETSP1167.nt.fa.gz.md5
+MMETSP1321	ftp://ftp.imicrobe.us/projects/104/samples/2106/MMETSP1321.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2106/MMETSP1321.nt.fa.gz.md5
+MMETSP1322	ftp://ftp.imicrobe.us/projects/104/samples/2107/MMETSP1322.nt.fa.gz
+MMETSP1323	ftp://ftp.imicrobe.us/projects/104/samples/2108/MMETSP1323.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2108/MMETSP1323.nt.fa.gz.md5
+MMETSP1348	ftp://ftp.imicrobe.us/projects/104/samples/2109/MMETSP1348.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2109/MMETSP1348.nt.fa.gz.md5
+MMETSP1136	ftp://ftp.imicrobe.us/projects/104/samples/2110/MMETSP1136.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2110/MMETSP1136.nt.fa.gz.md5
+MMETSP1137	ftp://ftp.imicrobe.us/projects/104/samples/2111/MMETSP1137.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2111/MMETSP1137.nt.fa.gz.md5
+MMETSP1138	ftp://ftp.imicrobe.us/projects/104/samples/2112/MMETSP1138.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2112/MMETSP1138.nt.fa.gz.md5
+MMETSP1170	ftp://ftp.imicrobe.us/projects/104/samples/2113/MMETSP1170.nt.fa.gz
+MMETSP1324	ftp://ftp.imicrobe.us/projects/104/samples/2114/MMETSP1324.nt.fa.gz
+MMETSP1326	ftp://ftp.imicrobe.us/projects/104/samples/2115/MMETSP1326.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2115/MMETSP1326.nt.fa.gz.md5
+MMETSP1349	ftp://ftp.imicrobe.us/projects/104/samples/2116/MMETSP1349.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2116/MMETSP1349.nt.fa.gz.md5
+MMETSP1139	ftp://ftp.imicrobe.us/projects/104/samples/2117/MMETSP1139.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2117/MMETSP1139.nt.fa.gz.md5
+MMETSP1140	ftp://ftp.imicrobe.us/projects/104/samples/2118/MMETSP1140.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2118/MMETSP1140.nt.fa.gz.md5
+MMETSP1141	ftp://ftp.imicrobe.us/projects/104/samples/2119/MMETSP1141.nt.fa.gz
+MMETSP1173	ftp://ftp.imicrobe.us/projects/104/samples/2120/MMETSP1173.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2120/MMETSP1173.nt.fa.gz.md5
+MMETSP1327	ftp://ftp.imicrobe.us/projects/104/samples/2121/MMETSP1327.nt.fa.gz
+MMETSP1328	ftp://ftp.imicrobe.us/projects/104/samples/2122/MMETSP1328.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2122/MMETSP1328.nt.fa.gz.md5
+MMETSP1329	ftp://ftp.imicrobe.us/projects/104/samples/2123/MMETSP1329.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2123/MMETSP1329.nt.fa.gz.md5
+MMETSP1355	ftp://ftp.imicrobe.us/projects/104/samples/2124/MMETSP1355.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2124/MMETSP1355.nt.fa.gz.md5
+MMETSP1142	ftp://ftp.imicrobe.us/projects/104/samples/2125/MMETSP1142.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2125/MMETSP1142.nt.fa.gz.md5
+MMETSP1143	ftp://ftp.imicrobe.us/projects/104/samples/2126/MMETSP1143.nt.fa.gz
+MMETSP1144	ftp://ftp.imicrobe.us/projects/104/samples/2127/MMETSP1144.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2127/MMETSP1144.nt.fa.gz.md5
+MMETSP1176	ftp://ftp.imicrobe.us/projects/104/samples/2128/MMETSP1176.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2128/MMETSP1176.nt.fa.gz.md5
+MMETSP1177	ftp://ftp.imicrobe.us/projects/104/samples/2129/MMETSP1177.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2129/MMETSP1177.nt.fa.gz.md5
+MMETSP1330	ftp://ftp.imicrobe.us/projects/104/samples/2130/MMETSP1330.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2130/MMETSP1330.nt.fa.gz.md5
+MMETSP1357	ftp://ftp.imicrobe.us/projects/104/samples/2131/MMETSP1357.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2131/MMETSP1357.nt.fa.gz.md5
+MMETSP1358	ftp://ftp.imicrobe.us/projects/104/samples/2132/MMETSP1358.nt.fa.gz
+MMETSP1147	ftp://ftp.imicrobe.us/projects/104/samples/2133/MMETSP1147.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2133/MMETSP1147.nt.fa.gz.md5
+MMETSP1148	ftp://ftp.imicrobe.us/projects/104/samples/2134/MMETSP1148.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2134/MMETSP1148.nt.fa.gz.md5
+MMETSP1150	ftp://ftp.imicrobe.us/projects/104/samples/2135/MMETSP1150.nt.fa.gz
+MMETSP1180	ftp://ftp.imicrobe.us/projects/104/samples/2136/MMETSP1180.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2136/MMETSP1180.nt.fa.gz.md5
+MMETSP1333	ftp://ftp.imicrobe.us/projects/104/samples/2137/MMETSP1333.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2137/MMETSP1333.nt.fa.gz.md5
+MMETSP1334	ftp://ftp.imicrobe.us/projects/104/samples/2138/MMETSP1334.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2138/MMETSP1334.nt.fa.gz.md5
+MMETSP1335	ftp://ftp.imicrobe.us/projects/104/samples/2139/MMETSP1335.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2139/MMETSP1335.nt.fa.gz.md5
+MMETSP1359	ftp://ftp.imicrobe.us/projects/104/samples/2140/MMETSP1359.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2140/MMETSP1359.nt.fa.gz.md5
+MMETSP1151	ftp://ftp.imicrobe.us/projects/104/samples/2141/MMETSP1151.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2141/MMETSP1151.nt.fa.gz.md5
+MMETSP1152	ftp://ftp.imicrobe.us/projects/104/samples/2142/MMETSP1152.nt.fa.gz
+MMETSP1153	ftp://ftp.imicrobe.us/projects/104/samples/2143/MMETSP1153.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2143/MMETSP1153.nt.fa.gz.md5
+MMETSP1309	ftp://ftp.imicrobe.us/projects/104/samples/2144/MMETSP1309.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2144/MMETSP1309.nt.fa.gz.md5
+MMETSP1310	ftp://ftp.imicrobe.us/projects/104/samples/2145/MMETSP1310.nt.fa.gz
+MMETSP1336	ftp://ftp.imicrobe.us/projects/104/samples/2146/MMETSP1336.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2146/MMETSP1336.nt.fa.gz.md5
+MMETSP1154	ftp://ftp.imicrobe.us/projects/104/samples/2147/MMETSP1154.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2147/MMETSP1154.nt.fa.gz.md5
+MMETSP1155	ftp://ftp.imicrobe.us/projects/104/samples/2148/MMETSP1155.nt.fa.gz
+MMETSP1156	ftp://ftp.imicrobe.us/projects/104/samples/2149/MMETSP1156.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2149/MMETSP1156.nt.fa.gz.md5
+MMETSP1311	ftp://ftp.imicrobe.us/projects/104/samples/2150/MMETSP1311.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2150/MMETSP1311.nt.fa.gz.md5
+MMETSP1312	ftp://ftp.imicrobe.us/projects/104/samples/2151/MMETSP1312.nt.fa.gz
+MMETSP1344	ftp://ftp.imicrobe.us/projects/104/samples/2152/MMETSP1344.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2152/MMETSP1344.nt.fa.gz.md5
+MMETSP1157	ftp://ftp.imicrobe.us/projects/104/samples/2153/MMETSP1157.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2153/MMETSP1157.nt.fa.gz.md5
+MMETSP1315	ftp://ftp.imicrobe.us/projects/104/samples/2154/MMETSP1315.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2154/MMETSP1315.nt.fa.gz.md5
+MMETSP1316	ftp://ftp.imicrobe.us/projects/104/samples/2155/MMETSP1316.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2155/MMETSP1316.nt.fa.gz.md5
+MMETSP1317	ftp://ftp.imicrobe.us/projects/104/samples/2156/MMETSP1317.nt.fa.gz
+MMETSP1346	ftp://ftp.imicrobe.us/projects/104/samples/2157/MMETSP1346.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2157/MMETSP1346.nt.fa.gz.md5
+MMETSP1160	ftp://ftp.imicrobe.us/projects/104/samples/2158/MMETSP1160.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2158/MMETSP1160.nt.fa.gz.md5
+MMETSP1161	ftp://ftp.imicrobe.us/projects/104/samples/2159/MMETSP1161.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2159/MMETSP1161.nt.fa.gz.md5
+MMETSP1082	ftp://ftp.imicrobe.us/projects/104/samples/2160/MMETSP1082.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2160/MMETSP1082.nt.fa.gz.md5
+MMETSP1084	ftp://ftp.imicrobe.us/projects/104/samples/2161/MMETSP1084.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2161/MMETSP1084.nt.fa.gz.md5
+MMETSP1090	ftp://ftp.imicrobe.us/projects/104/samples/2162/MMETSP1090.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2162/MMETSP1090.nt.fa.gz.md5
+MMETSP1091	ftp://ftp.imicrobe.us/projects/104/samples/2163/MMETSP1091.nt.fa.gz
+MMETSP1400	ftp://ftp.imicrobe.us/projects/104/samples/2164/MMETSP1400.nt.fa.gz
+MMETSP1403	ftp://ftp.imicrobe.us/projects/104/samples/2165/MMETSP1403.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2165/MMETSP1403.nt.fa.gz.md5
+MMETSP1404	ftp://ftp.imicrobe.us/projects/104/samples/2166/MMETSP1404.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2166/MMETSP1404.nt.fa.gz.md5
+MMETSP1428	ftp://ftp.imicrobe.us/projects/104/samples/2167/MMETSP1428.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2167/MMETSP1428.nt.fa.gz.md5
+MMETSP1429	ftp://ftp.imicrobe.us/projects/104/samples/2168/MMETSP1429.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2168/MMETSP1429.nt.fa.gz.md5
+MMETSP1085	ftp://ftp.imicrobe.us/projects/104/samples/2169/MMETSP1085.nt.fa.gz
+MMETSP1094	ftp://ftp.imicrobe.us/projects/104/samples/2170/MMETSP1094.nt.fa.gz
+MMETSP1098	ftp://ftp.imicrobe.us/projects/104/samples/2171/MMETSP1098.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2171/MMETSP1098.nt.fa.gz.md5
+MMETSP1101	ftp://ftp.imicrobe.us/projects/104/samples/2172/MMETSP1101.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2172/MMETSP1101.nt.fa.gz.md5
+MMETSP1102	ftp://ftp.imicrobe.us/projects/104/samples/2173/MMETSP1102.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2173/MMETSP1102.nt.fa.gz.md5
+MMETSP1103	ftp://ftp.imicrobe.us/projects/104/samples/2174/MMETSP1103.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2174/MMETSP1103.nt.fa.gz.md5
+MMETSP1104	ftp://ftp.imicrobe.us/projects/104/samples/2175/MMETSP1104.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2175/MMETSP1104.nt.fa.gz.md5
+MMETSP1105	ftp://ftp.imicrobe.us/projects/104/samples/2176/MMETSP1105.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2176/MMETSP1105.nt.fa.gz.md5
+MMETSP1106	ftp://ftp.imicrobe.us/projects/104/samples/2177/MMETSP1106.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2177/MMETSP1106.nt.fa.gz.md5
+MMETSP1107	ftp://ftp.imicrobe.us/projects/104/samples/2178/MMETSP1107.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2178/MMETSP1107.nt.fa.gz.md5
+MMETSP1065	ftp://ftp.imicrobe.us/projects/104/samples/2179/MMETSP1065.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2179/MMETSP1065.nt.fa.gz.md5
+MMETSP1081	ftp://ftp.imicrobe.us/projects/104/samples/2180/MMETSP1081.nt.fa.gz
+MMETSP0580	ftp://ftp.imicrobe.us/projects/104/samples/2181/MMETSP0580.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2181/MMETSP0580.nt.fa.gz.md5
+MMETSP0910	ftp://ftp.imicrobe.us/projects/104/samples/2182/MMETSP0910.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2182/MMETSP0910.nt.fa.gz.md5
+MMETSP0911	ftp://ftp.imicrobe.us/projects/104/samples/2183/MMETSP0911.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2183/MMETSP0911.nt.fa.gz.md5
+MMETSP0912	ftp://ftp.imicrobe.us/projects/104/samples/2184/MMETSP0912.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2184/MMETSP0912.nt.fa.gz.md5
+MMETSP0913	ftp://ftp.imicrobe.us/projects/104/samples/2185/MMETSP0913.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2185/MMETSP0913.nt.fa.gz.md5
+MMETSP0920	ftp://ftp.imicrobe.us/projects/104/samples/2186/MMETSP0920.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2186/MMETSP0920.nt.fa.gz.md5
+MMETSP1110	ftp://ftp.imicrobe.us/projects/104/samples/2187/MMETSP1110.nt.fa.gz
+MMETSP1114	ftp://ftp.imicrobe.us/projects/104/samples/2188/MMETSP1114.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2188/MMETSP1114.nt.fa.gz.md5
+MMETSP0324	ftp://ftp.imicrobe.us/projects/104/samples/2189/MMETSP0324.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2189/MMETSP0324.nt.fa.gz.md5
+MMETSP0492	ftp://ftp.imicrobe.us/projects/104/samples/2190/MMETSP0492.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2190/MMETSP0492.nt.fa.gz.md5
+MMETSP0493	ftp://ftp.imicrobe.us/projects/104/samples/2191/MMETSP0493.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2191/MMETSP0493.nt.fa.gz.md5
+MMETSP0494	ftp://ftp.imicrobe.us/projects/104/samples/2192/MMETSP0494.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2192/MMETSP0494.nt.fa.gz.md5
+MMETSP1374	ftp://ftp.imicrobe.us/projects/104/samples/2193/MMETSP1374.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2193/MMETSP1374.nt.fa.gz.md5
+MMETSP1345	ftp://ftp.imicrobe.us/projects/104/samples/2194/MMETSP1345.nt.fa.gz
+MMETSP1356	ftp://ftp.imicrobe.us/projects/104/samples/2195/MMETSP1356.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2195/MMETSP1356.nt.fa.gz.md5
+MMETSP1360	ftp://ftp.imicrobe.us/projects/104/samples/2196/MMETSP1360.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2196/MMETSP1360.nt.fa.gz.md5
+MMETSP1361	ftp://ftp.imicrobe.us/projects/104/samples/2197/MMETSP1361.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2197/MMETSP1361.nt.fa.gz.md5
+MMETSP1362	ftp://ftp.imicrobe.us/projects/104/samples/2198/MMETSP1362.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2198/MMETSP1362.nt.fa.gz.md5
+MMETSP1363	ftp://ftp.imicrobe.us/projects/104/samples/2199/MMETSP1363.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2199/MMETSP1363.nt.fa.gz.md5
+MMETSP1364	ftp://ftp.imicrobe.us/projects/104/samples/2200/MMETSP1364.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2200/MMETSP1364.nt.fa.gz.md5
+MMETSP1365	ftp://ftp.imicrobe.us/projects/104/samples/2201/MMETSP1365.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2201/MMETSP1365.nt.fa.gz.md5
+MMETSP1366	ftp://ftp.imicrobe.us/projects/104/samples/2202/MMETSP1366.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2202/MMETSP1366.nt.fa.gz.md5
+MMETSP1367	ftp://ftp.imicrobe.us/projects/104/samples/2203/MMETSP1367.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2203/MMETSP1367.nt.fa.gz.md5
+MMETSP1369	ftp://ftp.imicrobe.us/projects/104/samples/2204/MMETSP1369.nt.fa.gz
+MMETSP1370	ftp://ftp.imicrobe.us/projects/104/samples/2205/MMETSP1370.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2205/MMETSP1370.nt.fa.gz.md5
+MMETSP1371	ftp://ftp.imicrobe.us/projects/104/samples/2206/MMETSP1371.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2206/MMETSP1371.nt.fa.gz.md5
+MMETSP1385	ftp://ftp.imicrobe.us/projects/104/samples/2207/MMETSP1385.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2207/MMETSP1385.nt.fa.gz.md5
+MMETSP1386	ftp://ftp.imicrobe.us/projects/104/samples/2208/MMETSP1386.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2208/MMETSP1386.nt.fa.gz.md5
+MMETSP1387	ftp://ftp.imicrobe.us/projects/104/samples/2209/MMETSP1387.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2209/MMETSP1387.nt.fa.gz.md5
+MMETSP1388	ftp://ftp.imicrobe.us/projects/104/samples/2210/MMETSP1388.nt.fa.gz
+MMETSP1389	ftp://ftp.imicrobe.us/projects/104/samples/2211/MMETSP1389.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2211/MMETSP1389.nt.fa.gz.md5
+MMETSP1390	ftp://ftp.imicrobe.us/projects/104/samples/2212/MMETSP1390.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2212/MMETSP1390.nt.fa.gz.md5
+MMETSP1391	ftp://ftp.imicrobe.us/projects/104/samples/2213/MMETSP1391.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2213/MMETSP1391.nt.fa.gz.md5
+MMETSP1392	ftp://ftp.imicrobe.us/projects/104/samples/2214/MMETSP1392.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2214/MMETSP1392.nt.fa.gz.md5
+MMETSP1393	ftp://ftp.imicrobe.us/projects/104/samples/2215/MMETSP1393.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2215/MMETSP1393.nt.fa.gz.md5
+MMETSP1394	ftp://ftp.imicrobe.us/projects/104/samples/2216/MMETSP1394.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2216/MMETSP1394.nt.fa.gz.md5
+MMETSP1395	ftp://ftp.imicrobe.us/projects/104/samples/2217/MMETSP1395.nt.fa.gz
+MMETSP1396	ftp://ftp.imicrobe.us/projects/104/samples/2218/MMETSP1396.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2218/MMETSP1396.nt.fa.gz.md5
+MMETSP1377	ftp://ftp.imicrobe.us/projects/104/samples/2219/MMETSP1377.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2219/MMETSP1377.nt.fa.gz.md5
+MMETSP1380	ftp://ftp.imicrobe.us/projects/104/samples/2220/MMETSP1380.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2220/MMETSP1380.nt.fa.gz.md5
+MMETSP1381	ftp://ftp.imicrobe.us/projects/104/samples/2221/MMETSP1381.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2221/MMETSP1381.nt.fa.gz.md5
+MMETSP1384	ftp://ftp.imicrobe.us/projects/104/samples/2222/MMETSP1384.nt.fa.gz
+MMETSP0790	ftp://ftp.imicrobe.us/projects/104/samples/2223/MMETSP0790.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2223/MMETSP0790.nt.fa.gz.md5
+MMETSP0288	ftp://ftp.imicrobe.us/projects/104/samples/2224/MMETSP0288.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2224/MMETSP0288.nt.fa.gz.md5
+MMETSP0290	ftp://ftp.imicrobe.us/projects/104/samples/2225/MMETSP0290.nt.fa.gz
+MMETSP0308	ftp://ftp.imicrobe.us/projects/104/samples/2226/MMETSP0308.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2226/MMETSP0308.nt.fa.gz.md5
+MMETSP0312	ftp://ftp.imicrobe.us/projects/104/samples/2227/MMETSP0312.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2227/MMETSP0312.nt.fa.gz.md5
+MMETSP0313	ftp://ftp.imicrobe.us/projects/104/samples/2228/MMETSP0313.nt.fa.gz
+MMETSP0314	ftp://ftp.imicrobe.us/projects/104/samples/2229/MMETSP0314.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2229/MMETSP0314.nt.fa.gz.md5
+MMETSP0315	ftp://ftp.imicrobe.us/projects/104/samples/2230/MMETSP0315.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2230/MMETSP0315.nt.fa.gz.md5
+MMETSP1407	ftp://ftp.imicrobe.us/projects/104/samples/2231/MMETSP1407.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2231/MMETSP1407.nt.fa.gz.md5
+MMETSP1408	ftp://ftp.imicrobe.us/projects/104/samples/2232/MMETSP1408.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2232/MMETSP1408.nt.fa.gz.md5
+MMETSP1397	ftp://ftp.imicrobe.us/projects/104/samples/2233/MMETSP1397.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2233/MMETSP1397.nt.fa.gz.md5
+MMETSP1399	ftp://ftp.imicrobe.us/projects/104/samples/2234/MMETSP1399.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2234/MMETSP1399.nt.fa.gz.md5
+MMETSP1401	ftp://ftp.imicrobe.us/projects/104/samples/2235/MMETSP1401.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2235/MMETSP1401.nt.fa.gz.md5
+MMETSP1402	ftp://ftp.imicrobe.us/projects/104/samples/2236/MMETSP1402.nt.fa.gz
+MMETSP1405	ftp://ftp.imicrobe.us/projects/104/samples/2237/MMETSP1405.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2237/MMETSP1405.nt.fa.gz.md5
+MMETSP1406	ftp://ftp.imicrobe.us/projects/104/samples/2238/MMETSP1406.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2238/MMETSP1406.nt.fa.gz.md5
+MMETSP1415	ftp://ftp.imicrobe.us/projects/104/samples/2239/MMETSP1415.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2239/MMETSP1415.nt.fa.gz.md5
+MMETSP1416	ftp://ftp.imicrobe.us/projects/104/samples/2240/MMETSP1416.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2240/MMETSP1416.nt.fa.gz.md5
+MMETSP1423	ftp://ftp.imicrobe.us/projects/104/samples/2241/MMETSP1423.nt.fa.gz
+MMETSP1424	ftp://ftp.imicrobe.us/projects/104/samples/2242/MMETSP1424.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2242/MMETSP1424.nt.fa.gz.md5
+MMETSP1425	ftp://ftp.imicrobe.us/projects/104/samples/2243/MMETSP1425.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2243/MMETSP1425.nt.fa.gz.md5
+MMETSP1417	ftp://ftp.imicrobe.us/projects/104/samples/2244/MMETSP1417.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2244/MMETSP1417.nt.fa.gz.md5
+MMETSP1418	ftp://ftp.imicrobe.us/projects/104/samples/2245/MMETSP1418.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2245/MMETSP1418.nt.fa.gz.md5
+MMETSP1419	ftp://ftp.imicrobe.us/projects/104/samples/2246/MMETSP1419.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2246/MMETSP1419.nt.fa.gz.md5
+MMETSP1420	ftp://ftp.imicrobe.us/projects/104/samples/2247/MMETSP1420.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2247/MMETSP1420.nt.fa.gz.md5
+MMETSP1421	ftp://ftp.imicrobe.us/projects/104/samples/2248/MMETSP1421.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2248/MMETSP1421.nt.fa.gz.md5
+MMETSP1422	ftp://ftp.imicrobe.us/projects/104/samples/2249/MMETSP1422.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2249/MMETSP1422.nt.fa.gz.md5
+MMETSP1409	ftp://ftp.imicrobe.us/projects/104/samples/2250/MMETSP1409.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2250/MMETSP1409.nt.fa.gz.md5
+MMETSP1410	ftp://ftp.imicrobe.us/projects/104/samples/2251/MMETSP1410.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2251/MMETSP1410.nt.fa.gz.md5
+MMETSP1411	ftp://ftp.imicrobe.us/projects/104/samples/2252/MMETSP1411.nt.fa.gz
+MMETSP1412	ftp://ftp.imicrobe.us/projects/104/samples/2253/MMETSP1412.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2253/MMETSP1412.nt.fa.gz.md5
+MMETSP1413	ftp://ftp.imicrobe.us/projects/104/samples/2254/MMETSP1413.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2254/MMETSP1413.nt.fa.gz.md5
+MMETSP1414	ftp://ftp.imicrobe.us/projects/104/samples/2255/MMETSP1414.nt.fa.gz
+MMETSP1426	ftp://ftp.imicrobe.us/projects/104/samples/2256/MMETSP1426.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2256/MMETSP1426.nt.fa.gz.md5
+MMETSP1432	ftp://ftp.imicrobe.us/projects/104/samples/2257/MMETSP1432.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2257/MMETSP1432.nt.fa.gz.md5
+MMETSP0088	ftp://ftp.imicrobe.us/projects/104/samples/2258/MMETSP0088.nt.fa.gz
+MMETSP0090	ftp://ftp.imicrobe.us/projects/104/samples/2259/MMETSP0090.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2259/MMETSP0090.nt.fa.gz.md5
+MMETSP0091	ftp://ftp.imicrobe.us/projects/104/samples/2260/MMETSP0091.nt.fa.gz
+MMETSP0092	ftp://ftp.imicrobe.us/projects/104/samples/2261/MMETSP0092.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2261/MMETSP0092.nt.fa.gz.md5
+MMETSP1012	ftp://ftp.imicrobe.us/projects/104/samples/2262/MMETSP1012.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2262/MMETSP1012.nt.fa.gz.md5
+MMETSP1433	ftp://ftp.imicrobe.us/projects/104/samples/2263/MMETSP1433.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2263/MMETSP1433.nt.fa.gz.md5
+MMETSP1434	ftp://ftp.imicrobe.us/projects/104/samples/2264/MMETSP1434.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2264/MMETSP1434.nt.fa.gz.md5
+MMETSP1435	ftp://ftp.imicrobe.us/projects/104/samples/2265/MMETSP1435.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2265/MMETSP1435.nt.fa.gz.md5
+MMETSP1436	ftp://ftp.imicrobe.us/projects/104/samples/2266/MMETSP1436.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2266/MMETSP1436.nt.fa.gz.md5
+MMETSP1437	ftp://ftp.imicrobe.us/projects/104/samples/2267/MMETSP1437.nt.fa.gz
+MMETSP1438	ftp://ftp.imicrobe.us/projects/104/samples/2268/MMETSP1438.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2268/MMETSP1438.nt.fa.gz.md5
+MMETSP1439	ftp://ftp.imicrobe.us/projects/104/samples/2269/MMETSP1439.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2269/MMETSP1439.nt.fa.gz.md5
+MMETSP1440	ftp://ftp.imicrobe.us/projects/104/samples/2270/MMETSP1440.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2270/MMETSP1440.nt.fa.gz.md5
+MMETSP1441	ftp://ftp.imicrobe.us/projects/104/samples/2271/MMETSP1441.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2271/MMETSP1441.nt.fa.gz.md5
+MMETSP1442	ftp://ftp.imicrobe.us/projects/104/samples/2272/MMETSP1442.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2272/MMETSP1442.nt.fa.gz.md5
+MMETSP1443	ftp://ftp.imicrobe.us/projects/104/samples/2273/MMETSP1443.nt.fa.gz
+MMETSP1444	ftp://ftp.imicrobe.us/projects/104/samples/2274/MMETSP1444.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2274/MMETSP1444.nt.fa.gz.md5
+MMETSP1445	ftp://ftp.imicrobe.us/projects/104/samples/2275/MMETSP1445.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2275/MMETSP1445.nt.fa.gz.md5
+MMETSP1471	ftp://ftp.imicrobe.us/projects/104/samples/2276/MMETSP1471.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2276/MMETSP1471.nt.fa.gz.md5
+MMETSP1475	ftp://ftp.imicrobe.us/projects/104/samples/2277/MMETSP1475.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2277/MMETSP1475.nt.fa.gz.md5
+MMETSP1446	ftp://ftp.imicrobe.us/projects/104/samples/2278/MMETSP1446.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2278/MMETSP1446.nt.fa.gz.md5
+MMETSP1447	ftp://ftp.imicrobe.us/projects/104/samples/2279/MMETSP1447.nt.fa.gz
+MMETSP1449	ftp://ftp.imicrobe.us/projects/104/samples/2280/MMETSP1449.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2280/MMETSP1449.nt.fa.gz.md5
+MMETSP1450	ftp://ftp.imicrobe.us/projects/104/samples/2281/MMETSP1450.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2281/MMETSP1450.nt.fa.gz.md5
+MMETSP1451	ftp://ftp.imicrobe.us/projects/104/samples/2282/MMETSP1451.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2282/MMETSP1451.nt.fa.gz.md5
+MMETSP1452	ftp://ftp.imicrobe.us/projects/104/samples/2283/MMETSP1452.nt.fa.gz
+MMETSP1453	ftp://ftp.imicrobe.us/projects/104/samples/2284/MMETSP1453.nt.fa.gz
+MMETSP1456	ftp://ftp.imicrobe.us/projects/104/samples/2285/MMETSP1456.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2285/MMETSP1456.nt.fa.gz.md5
+MMETSP1460	ftp://ftp.imicrobe.us/projects/104/samples/2286/MMETSP1460.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2286/MMETSP1460.nt.fa.gz.md5
+MMETSP1462	ftp://ftp.imicrobe.us/projects/104/samples/2287/MMETSP1462.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2287/MMETSP1462.nt.fa.gz.md5
+MMETSP1465	ftp://ftp.imicrobe.us/projects/104/samples/2288/MMETSP1465.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2288/MMETSP1465.nt.fa.gz.md5
+MMETSP1467	ftp://ftp.imicrobe.us/projects/104/samples/2289/MMETSP1467.nt.fa.gz
+MMETSP1468	ftp://ftp.imicrobe.us/projects/104/samples/2290/MMETSP1468.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2290/MMETSP1468.nt.fa.gz.md5
+MMETSP1325	ftp://ftp.imicrobe.us/projects/104/samples/2468/MMETSP1325.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2468/MMETSP1325.nt.fa.gz.md5
+MMETSP0166	ftp://ftp.imicrobe.us/projects/104/samples/2469/MMETSP0166.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2469/MMETSP0166.nt.fa.gz.md5
+MMETSP1019	ftp://ftp.imicrobe.us/projects/104/samples/2470/MMETSP1019.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2470/MMETSP1019.nt.fa.gz.md5
+MMETSP0693	ftp://ftp.imicrobe.us/projects/104/samples/2471/MMETSP0693.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2471/MMETSP0693.nt.fa.gz.md5
+MMETSP1083	ftp://ftp.imicrobe.us/projects/104/samples/2472/MMETSP1083.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2472/MMETSP1083.nt.fa.gz.md5
+MMETSP0699	ftp://ftp.imicrobe.us/projects/104/samples/2473/MMETSP0699.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2473/MMETSP0699.nt.fa.gz.md5
+MMETSP0697	ftp://ftp.imicrobe.us/projects/104/samples/2474/MMETSP0697.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2474/MMETSP0697.nt.fa.gz.md5
+MMETSP0053	ftp://ftp.imicrobe.us/projects/104/samples/2475/MMETSP0053.nt.fa.gz
+MMETSP0055	ftp://ftp.imicrobe.us/projects/104/samples/2476/MMETSP0055.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2476/MMETSP0055.nt.fa.gz.md5
+MMETSP0057	ftp://ftp.imicrobe.us/projects/104/samples/2477/MMETSP0057.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2477/MMETSP0057.nt.fa.gz.md5
+MMETSP0205	ftp://ftp.imicrobe.us/projects/104/samples/2478/MMETSP0205.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2478/MMETSP0205.nt.fa.gz.md5
+MMETSP0206	ftp://ftp.imicrobe.us/projects/104/samples/2479/MMETSP0206.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2479/MMETSP0206.nt.fa.gz.md5
+MMETSP1353	ftp://ftp.imicrobe.us/projects/104/samples/2488/MMETSP1353.nt.fa.gz
+MMETSP1352	ftp://ftp.imicrobe.us/projects/104/samples/2489/MMETSP1352.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2489/MMETSP1352.nt.fa.gz.md5
+MMETSP1354	ftp://ftp.imicrobe.us/projects/104/samples/2490/MMETSP1354.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2490/MMETSP1354.nt.fa.gz.md5
+MMETSP1162	ftp://ftp.imicrobe.us/projects/104/samples/2491/MMETSP1162.nt.fa.gz
+MMETSP1464	ftp://ftp.imicrobe.us/projects/104/samples/2492/MMETSP1464.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2492/MMETSP1464.nt.fa.gz.md5
+MMETSP1474	ftp://ftp.imicrobe.us/projects/104/samples/2493/MMETSP1474.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2493/MMETSP1474.nt.fa.gz.md5
+MMETSP1171	ftp://ftp.imicrobe.us/projects/104/samples/2494/MMETSP1171.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2494/MMETSP1171.nt.fa.gz.md5
+MMETSP1172	ftp://ftp.imicrobe.us/projects/104/samples/2495/MMETSP1172.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2495/MMETSP1172.nt.fa.gz.md5
+MMETSP1174	ftp://ftp.imicrobe.us/projects/104/samples/2496/MMETSP1174.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2496/MMETSP1174.nt.fa.gz.md5
+MMETSP0223	ftp://ftp.imicrobe.us/projects/104/samples/2497/MMETSP0223.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2497/MMETSP0223.nt.fa.gz.md5
+MMETSP1175	ftp://ftp.imicrobe.us/projects/104/samples/2498/MMETSP1175.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2498/MMETSP1175.nt.fa.gz.md5
+MMETSP1178	ftp://ftp.imicrobe.us/projects/104/samples/2499/MMETSP1178.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2499/MMETSP1178.nt.fa.gz.md5
+MMETSP1466	ftp://ftp.imicrobe.us/projects/104/samples/2500/MMETSP1466.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2500/MMETSP1466.nt.fa.gz.md5
+MMETSP1338	ftp://ftp.imicrobe.us/projects/104/samples/2501/MMETSP1338.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2501/MMETSP1338.nt.fa.gz.md5
+MMETSP1459	ftp://ftp.imicrobe.us/projects/104/samples/2502/MMETSP1459.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2502/MMETSP1459.nt.fa.gz.md5
+MMETSP1469	ftp://ftp.imicrobe.us/projects/104/samples/2503/MMETSP1469.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2503/MMETSP1469.nt.fa.gz.md5
+MMETSP1470	ftp://ftp.imicrobe.us/projects/104/samples/2504/MMETSP1470.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2504/MMETSP1470.nt.fa.gz.md5
+MMETSP1463	ftp://ftp.imicrobe.us/projects/104/samples/2505/MMETSP1463.nt.fa.gz
+MMETSP1472	ftp://ftp.imicrobe.us/projects/104/samples/2506/MMETSP1472.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2506/MMETSP1472.nt.fa.gz.md5
+MMETSP1473	ftp://ftp.imicrobe.us/projects/104/samples/2507/MMETSP1473.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2507/MMETSP1473.nt.fa.gz.md5
+MMETSP1159	ftp://ftp.imicrobe.us/projects/104/samples/2508/MMETSP1159.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2508/MMETSP1159.nt.fa.gz.md5
+MMETSP0698	ftp://ftp.imicrobe.us/projects/104/samples/2510/MMETSP0698.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2510/MMETSP0698.nt.fa.gz.md5
+MMETSP0056	ftp://ftp.imicrobe.us/projects/104/samples/2511/MMETSP0056.nt.fa.gz
+MMETSP0696	ftp://ftp.imicrobe.us/projects/104/samples/2512/MMETSP0696.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2512/MMETSP0696.nt.fa.gz.md5
+MMETSP0286	ftp://ftp.imicrobe.us/projects/104/samples/2513/MMETSP0286.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2513/MMETSP0286.nt.fa.gz.md5
+MMETSP0132	ftp://ftp.imicrobe.us/projects/104/samples/2514/MMETSP0132.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2514/MMETSP0132.nt.fa.gz.md5
+MMETSP0047	ftp://ftp.imicrobe.us/projects/104/samples/2519/MMETSP0047.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2519/MMETSP0047.nt.fa.gz.md5
+MMETSP1339	ftp://ftp.imicrobe.us/projects/104/samples/2520/MMETSP1339.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2520/MMETSP1339.nt.fa.gz.md5
+MMETSP1166	ftp://ftp.imicrobe.us/projects/104/samples/2521/MMETSP1166.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2521/MMETSP1166.nt.fa.gz.md5
+MMETSP1169	ftp://ftp.imicrobe.us/projects/104/samples/2522/MMETSP1169.nt.fa.gz	ftp://ftp.imicrobe.us/projects/104/samples/2522/MMETSP1169.nt.fa.gz.md5

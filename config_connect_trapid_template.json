@@ -1,0 +1,7 @@
+{
+        "trapid_db_server":"psbsql01",
+        "trapid_db_name":"db_trapid_02",
+        "trapid_db_port":3306,
+        "trapid_db_user":"<usr>",
+        "trapid_db_pswd":"<pswd>"
+}
