@@ -1,2 +1,0 @@
-https://raw.githubusercontent.com/dib-lab/dib-MMETSP/master/SraRunInfo.csv
-https://github.com/ljcohen/MMETSP/raw/master/imicrobe/sample-attr.tab

@@ -1,9 +1,0 @@
-{
-        "tmpdir" : "/path/to/tmpdir_TRAPID/",
-        "base_script_location":"/path/to/trapid_develop/app/scripts/",
-        "userID" : "<USER ID>",
-        "refdb" : "<refdb>",
-        "title": "<title>",
-        "description" : "<description>",
-        "urldata" : "<url>"
-}
